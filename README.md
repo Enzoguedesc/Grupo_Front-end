@@ -41,10 +41,31 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
   Custo de tempo de produçao do sistema.  
   - Tempo de trabalho dos alunos e custo do dominio do site.  
 
-# Requisitos do Sistema
 
-- Requisitos Funcionais
+# Requisistos
+
+- Funcionais:
+ - Descricao do projeto (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada).
+ - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).
+ - Botão para ter mais detalhes de cada projeto, indo para outra página.
+ - Na listagem dos projetos, eles precisam ser representados por uma imagem.
 
 
+- Não Funcionais:
+ - O sistema deve apresentar cores aderentes a identidade do Ibmec (Azul, Amarelo e branco)
+ - O sistema de preferencia tem que ser adapitado parar celular 
+ - O sistema precisa ter um padrão de projetos
+ - O sistema precisa de um cabeçalho, dividio com opções
 
-- Requisitos Não funcionais
+
+Outros Requisitos
+   
+ - No final do sistema precisa ter uma opção de "Carregar mais", mostrando o resto dos projetos.
+ - Portifolio que lista os projetos
+ - O aluno tenha um proprio link, para ser direcionado a todos os projetos do aluno
+  - Feito por React
+  - Usado mais de uma linguagem (inglês e Português)
+  - Aderir identidade visual do Ibmec
+  - apenas o add que atribui aos portifolios dos alunos
+  - 
+
