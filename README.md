@@ -14,8 +14,8 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 - 
 
 - What?  
-  O que o sistema faz?
-  Um site feito pela Ibmec para mostrar os portifólios criados pelos alunos
+  O que o sistema faz?  
+  Um site feito pela Ibmec para mostrar os portifólios criados pelos alunos  
 
 - Why?  
   Por que o sistema existe  
