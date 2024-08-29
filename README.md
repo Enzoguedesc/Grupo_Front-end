@@ -23,7 +23,7 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 - Who?  
   Quem usaria o sistema?  
-  - Possiveis futuros clientes e professores.  
+  - Possiveis futuros clientes, professores e o proprio aluno na hora de apresentra o projeto.  
 
 - Where?  
   Aonde ele seria usado?  
@@ -35,7 +35,7 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 - How?  
   Como ele seria usado?  
-  - Será desenvolvido por nós alunos da materia Projeto Front-End utilizando os ensinamentos aprendidos em aula. Sistema seria usado mostrando projetos feitos pelos estudantes e seus integrantes.  
+  - O sistema seria usado mostrando projetos feitos pelos estudantes e seus integrantes.  
 
 - How much?  
   Custo de tempo de produçao do sistema.  
