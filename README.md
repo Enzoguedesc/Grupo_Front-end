@@ -11,3 +11,25 @@
 
 
 # 5W2H
+- 
+
+- What?
+  O que o sistema faz?
+
+- Why?
+  Por que o sistema existe
+
+- Who?
+  Quem usaria o sistema?
+
+- Where?
+  Aonde ele seria usado?
+
+- When?
+  Quando seria usado ou disponivel para uso?
+
+- How?
+  Como ele seria feito?
+
+- How much?
+  
