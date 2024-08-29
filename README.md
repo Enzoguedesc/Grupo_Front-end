@@ -32,4 +32,4 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
   Como ele seria feito?  
 
 - How much?  
-  
+  Custo de tempo de produçao do sistema.  
