@@ -31,7 +31,7 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 - When?  
   Quando seria usado ou disponivel para uso?  
-  - A qualquer momento que alguem tenha interesse em acessar o site.  
+  - Quando um empregador queira achar um aluno que que possa resolver o seu problema, quando alguém queira ver como é fazer sua graduação no Ibmec e quando um aluno queira um lugar para exibir seu portfólio.  
 
 - How?  
   Como ele seria usado?  
