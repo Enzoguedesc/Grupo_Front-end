@@ -22,8 +22,8 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
   - O sistema existe com o intuito de proporcionar organização e facilidade para os usuários na visualização dos projetos
 
 - Who?  
-  Quem usaria o sistema?  
-  - Os alunos, possiveis futuros clientes e professores
+  Quem criaria o sistema e quem usaria?  
+Os alunos seriam os responsáveis pela criação e os visitantes/usuários seriam os proprios alunos, possiveis futuros clientes e professores
 
 - Where?  
   Aonde ele seria usado?  
