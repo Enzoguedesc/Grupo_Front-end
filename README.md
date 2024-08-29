@@ -40,3 +40,11 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 - How much?  
   Custo de tempo de produçao do sistema.  
   - Tempo de trabalho dos alunos e custo do dominio do site.  
+
+# Requisitos do Sistema
+
+- Requisitos Funcionais
+
+
+
+- Requisitos Não funcionais
