@@ -7,7 +7,7 @@
 
 
 # Propósito do sistema
-
+O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, servindo como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios possam acessar para ver o que está acontecendo dentro da universidade
 
 
 # 5W2H
