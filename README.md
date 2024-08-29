@@ -11,32 +11,32 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 
 # 5W2H  
-5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos no projeto, nesse caso um sistema de portfólios da IBMEC, que tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como, e quanto.
+5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos no projeto, nesse caso um sistema de portfólios da IBMEC, que tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como, e quanto.  
 
 - What?  
   O que o sistema é?  
-  - Um site feito pela Ibmec para mostrar os portifólios criados pelos alunos  
+  - Um site feito pela Ibmec para mostrar os portifólios criados pelos alunos.  
 
 - Why?  
   Por que o sistema existe?  
-  - O sistema existe com o intuito de proporcionar organização e facilidade para os usuários na visualização dos projetos
+  - O sistema existe com o intuito de proporcionar organização e facilidade para os usuários na visualização dos projetos.  
 
 - Who?  
   Quem criaria o sistema e quem usaria?  
-  - Os alunos seriam os responsáveis pela criação e os visitantes/usuários seriam os proprios alunos, possiveis futuros clientes e professores
+  - Os alunos seriam os responsáveis pela criação e os visitantes/usuários seriam os proprios alunos, possiveis futuros clientes e professores.  
 
 - Where?  
-  Aonde ele seria usado?
-  - Online em um site.
+  Aonde ele seria usado?  
+  - Online em um site.  
 
 - When?  
-  Quando seria usado ou disponivel para uso?
-  - A qualquer momento que alguem tenha interesse em acessar o site
+  Quando seria usado ou disponivel para uso?  
+  - A qualquer momento que alguem tenha interesse em acessar o site.  
 
 - How?  
-  Como ele seria feito?
-  - Será desenvolvido por nós alunos da materia Projeto Front-End utilizando os ensinamentos aprendidos em aula
+  Como ele seria feito e usado?  
+  - Será desenvolvido por nós alunos da materia Projeto Front-End utilizando os ensinamentos aprendidos em aula. Sistema seria usado mostrando projetos feitos pelos estudantes e seus integrantes.  
 
 - How much?  
-  Custo de tempo de produçao do sistema.
-  - Tempo de trabalho dos alunos e custo do dominio do site
+  Custo de tempo de produçao do sistema.  
+  - Tempo de trabalho dos alunos e custo do dominio do site.  
