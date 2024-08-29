@@ -1,4 +1,4 @@
-# Grupo_Front-end
+# Grupo_Front-end - 
 - Enzo Guedes (https://github.com/Enzoguedesc/Projeto_front-end) /
 - Luca Confente (https://github.com/LucaConfente/Front-End) /
 - Diego Gode Bonani (https://github.com/Diego-Bonani/react-base-project) /
@@ -22,8 +22,8 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
   - O sistema existe com o intuito de proporcionar organização e facilidade para os usuários na visualização dos projetos.  
 
 - Who?  
-  Quem criaria o sistema e quem usaria?  
-  - Os alunos seriam os responsáveis pela criação e os visitantes/usuários seriam os proprios alunos, possiveis futuros clientes e professores.  
+  Quem usaria o sistema?  
+  - Possiveis futuros clientes e professores.  
 
 - Where?  
   Aonde ele seria usado?  
@@ -34,7 +34,7 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
   - A qualquer momento que alguem tenha interesse em acessar o site.  
 
 - How?  
-  Como ele seria feito e usado?  
+  Como ele seria usado?  
   - Será desenvolvido por nós alunos da materia Projeto Front-End utilizando os ensinamentos aprendidos em aula. Sistema seria usado mostrando projetos feitos pelos estudantes e seus integrantes.  
 
 - How much?  
