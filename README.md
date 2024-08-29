@@ -23,16 +23,20 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 - Who?  
   Quem criaria o sistema e quem usaria?  
-Os alunos seriam os responsáveis pela criação e os visitantes/usuários seriam os proprios alunos, possiveis futuros clientes e professores
+  - Os alunos seriam os responsáveis pela criação e os visitantes/usuários seriam os proprios alunos, possiveis futuros clientes e professores
 
 - Where?  
-  Aonde ele seria usado?  
+  Aonde ele seria usado?
+  - Online em um site.
 
 - When?  
-  Quando seria usado ou disponivel para uso?  
+  Quando seria usado ou disponivel para uso?
+  - A qualquer momento que alguem tenha interesse em acessar o site
 
 - How?  
- Como ele seria feito?  
+  Como ele seria feito?
+  - Será desenvolvido por nós alunos da materia Projeto Front-End utilizando os ensinamentos aprendidos em aula
 
 - How much?  
-  Custo de tempo de produçao do sistema.  
+  Custo de tempo de produçao do sistema.
+  - Tempo de trabalho dos alunos e custo do dominio do site
