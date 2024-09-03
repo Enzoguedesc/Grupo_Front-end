@@ -42,7 +42,7 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
   - Tempo de trabalho dos alunos e custo do dominio do site.  
 
 
-# Requisistos
+# Requisitos
 
 - Funcionais:  
  - No sistema é preciso de um portifolio que lista todos os projetos.  
