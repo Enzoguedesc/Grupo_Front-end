@@ -62,6 +62,5 @@ Não Funcionais:
  - O sistema precisará ser feito em dois idiomas diferentes (Inglês e Português)  
  - Aderir à identidade visual do Ibmec.  
 
-Outros Requisitos
 
 
