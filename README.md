@@ -1,13 +1,13 @@
 # Grupo Link-front
-- Enzo Guedes (https://github.com/Enzoguedesc/react-base-project.git) /
-- Luca Confente (https://github.com/LucaConfente/Front-End) /
-- Diego Gode Bonani (https://github.com/Diego-Bonani/react-base-project) /
-- Bernardo Meireles (https://github.com/meireles07/react-base-project.git) /
-- Pedro Mynssen (https://github.com/endsky1/Projeto_FrontEnd)
+- [Enzo Guedes](https://github.com/Enzoguedesc/react-base-project.git) /
+- [Luca Confente](https://github.com/LucaConfente/Front-End) /
+- [Diego Gode Bonani](https://github.com/Diego-Bonani/react-base-project) /
+- [Bernardo Meireles](https://github.com/meireles07/react-base-project.git) /
+- [Pedro Mynssen](https://github.com/endsky1/Projeto_FrontEnd)
 
 
 # Propósito do sistema
-O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, servindo como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios possam acessar para ver o que está acontecendo dentro da universidade
+O propósito do sistema que iremos desenvolver é criar um portfólio para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, servindo como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios possam acessar para ver o que está acontecendo dentro da universidade
 
 
 # 5W2H  
@@ -23,7 +23,7 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 - Who?  
   Quem usaria o sistema?  
-  - Possíveis futuros clientes, professores e o proprio aluno na hora de apresentar o projeto.  
+  - Possíveis futuros clientes, professores e o próprio aluno na hora de apresentar o projeto.  
 
 - Where?  
   Aonde ele seria usado?  
@@ -31,11 +31,11 @@ O propósito do sistema que iremos fazer é criar um portfólio para o IBMEC, mo
 
 - When?  
   Quando ele seria usado ou disponivel para uso?  
-  - Quando um empregador queira achar um aluno que que possa resolver o seu problema, quando alguém queira ver como é fazer sua graduação no Ibmec e quando um aluno queira um lugar para exibir seu portfólio.  
+  - Quando um empregador quiser achar um aluno que que possa resolver o seu problema, quando alguém quiser ver como é fazer sua graduação no Ibmec e quando um aluno desejar apresentar o seu portfólio.
 
 - How?  
   Como ele seria utilizado?  
-  - O sistema seria usado mostrando projetos feitos pelos estudantes e seus integrantes.  
+  - O sistema seria usado para mostrar projetos feitos pelos estudantes e seus integrantes.  
 
 - How much?  
   Custo de tempo de produção do sistema.  
@@ -50,13 +50,13 @@ Funcionais:
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
  - No sistema precisa ter um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
  - Na listagem dos projetos, eles precisam ser representados por uma imagem.  
- - Cada aluno tenha um proprio link, para ser direcionado a todos os projetos dele.  
+ - Cada aluno tenha um proprio link, que será direcionado para todos os projetos dele.  
  - No sistema apenas administradores poderão editar os portfólios dos alunos.  
 
 Não Funcionais:    
- - O sistema deve apresentar cores aderentes a identidade do Ibmec (Azul, Amarelo e branco).
+ - O sistema deve apresentar cores aderentes à identidade do Ibmec (Azul, Amarelo e branco).
  -  Feito por React.  
- - O sistema de preferencia tem que ser adaptado para dispositivos mobile.  
+ - O sistema de preferência tem que ser adaptado para dispositivos mobile.  
  - O sistema precisa ter um padrão de projetos.  
  - O sistema precisa de um cabeçalho, dividido e com opções.  
  - O sistema precisará ser feito em dois idiomas diferentes (Inglês e Português)  
