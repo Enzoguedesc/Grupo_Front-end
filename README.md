@@ -34,7 +34,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
   - Quando um empregador quiser achar um aluno que que possa resolver o seu problema, quando alguém quiser ver como é fazer sua graduação no Ibmec e quando um aluno desejar apresentar o seu portfólio.
 
 - How?  
-  Como ele seria utilizado?  
+  Como o sistema seria utilizado?  
   - O sistema seria usado para mostrar projetos feitos pelos estudantes e seus integrantes.  
 
 - How much?  
