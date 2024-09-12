@@ -88,3 +88,29 @@ Não Funcionais (caracteristicas do sistema):
 
 - Unica pagina de detalhamendo dos projetos  
 
+
+# Casos de Uso (MOTIVO DO SISTEMA)
+
+
+Nome
+
+Atores - papel do cliente (quem vai usar o sistema?). pode ter mais de um
+
+Descricao - Pq o caso ta sendo usado
+
+Pre-consicoes - qual o estado do sistema antes do caso de uso (tem que esta logado no sistema), (ter acessado o endereço)
+
+Fluxo principal - 
+
+pos-consicao - estado do sistema depois do caso de uso (nota fisca foi emitida, filme assistido, por ex)
+
+
+CASOS DE USO 
+
+- Exibir detalhes do projeto 
+- Buscar projetos 
+- Editar (ADM)
+- Mudar de página 
+- 
+
+
