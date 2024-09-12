@@ -1,4 +1,4 @@
-# Grupo Link-front
+# Grupo Front-Link
 - [Enzo Guedes](https://github.com/Enzoguedesc/react-base-project.git) 
 - [Luca Confente](https://github.com/LucaConfente/Front-End) 
 - [Diego Gode Bonani](https://github.com/Diego-Bonani/react-base-project) 
