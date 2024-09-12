@@ -31,7 +31,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 - When?  
   Quando ele seria usado ou disponivel para uso?  
-  - Quando um empregador quiser achar um aluno que que possa resolver o seu problema, quando alguém quiser ver como é fazer sua graduação no Ibmec e quando um aluno desejar apresentar o seu portfólio.
+  - Quando alguem quiser achar um projeto que possa resolver o seu problema, quando um aluno desejar apresentar o seu portfólio e quando o ADM for adicionar um novo projeto.  
 
 - How?  
   Como o sistema seria utilizado?  
@@ -44,22 +44,22 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 # Requisitos
 
-Funcionais:  
- - No sistema é preciso de uma pagina que liste todos os projetos.  
- - O sistema precisa de um cabeçalho, dividido e com opções interagiveis.
+Funcionais (Funções do sistema):  
+ - No sistema terá uma pagina que liste todos os projetos.  
+ - O sistema terá um cabeçalho, dividido e com opções interagiveis.
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
- - No sistema precisa ter um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
+ - No sistema terá um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
  - Na listagem dos projetos, eles precisam ser representados por uma imagem.  
  - Cada aluno tenha uma propria página, que irá conter todos os projetos dele.  
  - No sistema apenas administradores poderão editar os portfólios dos alunos.
  - O sistema deve ser adaptado para dispositivos mobile.
 
-Não Funcionais:    
+Não Funcionais (caracteristicas do sistema):      
  - O sistema deve apresentar cores aderentes à identidade do Ibmec (Azul, Amarelo e branco).
- - Feito com React.  
+ - O sistema tem que ser feito com React.  
  - O sistema precisa ter um padrão de projetos.  
- - O sistema precisará ser feito em dois idiomas diferentes (Inglês e Português)  
- - Aderir à identidade visual do Ibmec.  
- - Descrição do projeto (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
+ - O sistema terá dois idiomas diferentes (Inglês e Português)  
+ - O sistema Aderir à identidade visual do Ibmec.  
+ - O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
 
 
