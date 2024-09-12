@@ -46,21 +46,20 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 Funcionais:  
  - No sistema é preciso de um portfólio que lista todos os projetos.  
- - Descrição do projeto (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
+ - O sistema precisa de um cabeçalho, dividido e com opções interagiveis.
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
  - No sistema precisa ter um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
  - Na listagem dos projetos, eles precisam ser representados por uma imagem.  
- - Cada aluno tenha um proprio link, que será direcionado para todos os projetos dele.  
- - No sistema apenas administradores poderão editar os portfólios dos alunos.  
+ - Cada aluno tenha uma propria página, que irá conter todos os projetos dele.  
+ - No sistema apenas administradores poderão editar os portfólios dos alunos.
+ - O sistema deve ser adaptado para dispositivos mobile.
 
 Não Funcionais:    
  - O sistema deve apresentar cores aderentes à identidade do Ibmec (Azul, Amarelo e branco).
- -  Feito por React.  
- - O sistema de preferência tem que ser adaptado para dispositivos mobile.  
+ - Feito com React.  
  - O sistema precisa ter um padrão de projetos.  
- - O sistema precisa de um cabeçalho, dividido e com opções.  
  - O sistema precisará ser feito em dois idiomas diferentes (Inglês e Português)  
  - Aderir à identidade visual do Ibmec.  
-
+ - Descrição do projeto (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
 
 
