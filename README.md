@@ -64,7 +64,9 @@ Não Funcionais (caracteristicas do sistema):
 # Detalhamento de Requisitos 
 
 O sistema deverá ter uma pagina que liste todos os projetos.  
-- Os projetos tem que ser represetados por imagens e breves descrições?  
+- Como devem ser oragnizados os projetos na pagina?
+- Os projetos tem que ser represetados por imagens, breves descrições e um titulo?
+- como devem ser organizadas as imagens e as descrições?
 - seria quantas colunas de projetos para um despositivo movel?  
 - para um computador?  
 - para um tablet?  
@@ -83,7 +85,7 @@ O sistema terá um cabeçalho, dividido e com opções interagiveis.
 - pesquisar outros projetos?  
   
 Na listagem dos projetos, eles precisam ser representados por pelos menos uma imagem.  
--..    
+- Como essa imagem deve ser apresentada?   
    
 Cada aluno tenha um proprio link que irá conter todos os projetos dele.
 -..  
@@ -93,7 +95,6 @@ No sistema apenas administradores poderão editar os portfólios dos alunos.
   
 O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc)  
 - ..  
-
 
 O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).  
 
