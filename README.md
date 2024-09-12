@@ -53,6 +53,7 @@ Funcionais (Funções do sistema):
  - Cada aluno tenha uma propria página, que irá conter todos os projetos dele.  
  - No sistema apenas administradores poderão editar os portfólios dos alunos.
  - O sistema deve ser adaptado para dispositivos mobile.
+- O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
 
 Não Funcionais (caracteristicas do sistema):      
  - O sistema deve apresentar cores aderentes à identidade do Ibmec (Azul, Amarelo e branco).
@@ -60,6 +61,5 @@ Não Funcionais (caracteristicas do sistema):
  - O sistema precisa ter um padrão de projetos.  
  - O sistema terá dois idiomas diferentes (Inglês e Português)  
  - O sistema Aderir à identidade visual do Ibmec.  
- - O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
-
+ 
 
