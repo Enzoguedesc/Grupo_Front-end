@@ -50,7 +50,7 @@ Funcionais (Funções do sistema):
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
  - No sistema terá um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
  - Na listagem dos projetos, eles precisam ser representados por pelos menos uma imagem.  
- - Cada aluno tenha uma propria página, que irá conter todos os projetos dele.  
+ - Cada aluno terá um proprio link, que irá conter todos os projetos dele.  
  - No sistema apenas administradores poderão editar os portfólios dos alunos.
  - O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).
 
