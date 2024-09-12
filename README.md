@@ -63,46 +63,28 @@ Não Funcionais (caracteristicas do sistema):
  
 # Detalhamento de Requisitos 
 
-O sistema deverá ter uma pagina que liste todos os projetos.  
-- Como devem ser oragnizados os projetos na pagina?
-- Os projetos tem que ser represetados por imagens, breves descrições e um titulo?
-- como devem ser organizadas as imagens e as descrições?
-- seria quantas colunas de projetos para um despositivo movel?  
-- para um computador?  
-- para um tablet?  
-- Esses projetos teriam um botão de encaminhar? junto com a breve descrição?  
-  
-O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
-- Esse filtro tem vir antes dos projetos?  
-  
-No sistema terá um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
--  Esse botão de "Carregar mais", tem que ser no final da página? centralizado ou no canto?  
-- Abertando no botão, tem que ser direcionado para outra página ou apenas carregar mais projetos na mesma página?  
-- Tem que ser chamativo?  
-    
-O sistema terá um cabeçalho, dividido e com opções interagiveis.  
-- nesse cabeçalho teria a opcao de filtrar?  
-- pesquisar outros projetos?  
-  
-Na listagem dos projetos, eles precisam ser representados por pelos menos uma imagem.  
-- Como essa imagem deve ser apresentada?   
-   
-Cada aluno tenha um proprio link que irá conter todos os projetos dele.
--..  
-  
-No sistema apenas administradores poderão editar os portfólios dos alunos.  
-- Para os alunos, a opção de adicionar novos projetos nao irá existe?  
-  
-O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc)  
-- ..  
 
-O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).  
+- 1 imagem pelo menos no projeto. pode contar mais de uma imagem, documentos, simblo que posso representar o projeto
 
-O sistema será feito por React.  
-  
-O sistema terá um padrão de projetos.  
-  
-O sistema terá dois idiomas diferentes (Inglês e Português).  
-  
-O sistema deve ser adaptado para dispositivos mobile e computadores.  
+- Na pagina inicial tem que ser organizados aparecendo mais de dois projetos por linha 
+
+- O projeto pode ter um botão de encaminhar.
+
+- Ter um botão para deslogar o ADM
+
+- filtros: Ferramentas, cursos, periodo dos projetos, Unidade do IBMEC
+
+- Ter nos projetos o pepel, o vinculo que os donos do projetos tem com a IBMEC.
+
+- ter um botao para trocar a lingua (ingles para portugues)
+
+- ter um link com a biografia do grupo
+
+- ADM so cadrastra os proj, adita e pode desativar os projetos
+
+- Ter paginasão ( pagina 1 --> pagina 2) ao inves de "carregar mais"
+
+- A ordem de paginasao pode ser por ordem cronologica (mais recente primeiro)
+
+- Unica pagina de detalhamendo dos projetos  
 
