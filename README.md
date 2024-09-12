@@ -45,7 +45,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 # Requisitos
 
 Funcionais:  
- - No sistema é preciso de um portfólio que lista todos os projetos.  
+ - No sistema é preciso de uma pagina que liste todos os projetos.  
  - O sistema precisa de um cabeçalho, dividido e com opções interagiveis.
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
  - No sistema precisa ter um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
