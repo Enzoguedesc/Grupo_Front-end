@@ -49,17 +49,16 @@ Funcionais (Funções do sistema):
  - O sistema terá um cabeçalho, dividido e com opções interagiveis.
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
  - No sistema terá um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
- - Na listagem dos projetos, eles precisam ser representados por uma imagem.  
+ - Na listagem dos projetos, eles precisam ser representados por pelos menos uma imagem.  
  - Cada aluno tenha uma propria página, que irá conter todos os projetos dele.  
- - No sistema apenas administradores poderão editar os portfólios dos alunos.
- - O sistema deve ser adaptado para dispositivos mobile.
-- O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).  
+ - No sistema apenas administradores poderão editar os portfólios dos alunos.  
 
 Não Funcionais (caracteristicas do sistema):      
- - O sistema deve apresentar cores aderentes à identidade do Ibmec (Azul, Amarelo e branco).
- - O sistema tem que ser feito com React.  
- - O sistema precisa ter um padrão de projetos.  
- - O sistema terá dois idiomas diferentes (Inglês e Português)  
- - O sistema Aderir à identidade visual do Ibmec.  
+ - O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).
+ - O sistema será feito por React.  
+ - O sistema terá um padrão de projetos.  
+ - O sistema terá dois idiomas diferentes (Inglês e Português).    
+ - O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).
+ - O sistema deve ser adaptado para dispositivos mobile e computadores.  
  
 
