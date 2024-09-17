@@ -7,7 +7,7 @@
 
 
 # Propósito do sistema
-O propósito do sistema que iremos desenvolver é criar um portfólio para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, servindo como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios possam acessar para ver o que está acontecendo dentro da universidade
+O propósito do sistema que iremos desenvolver é criar um portfólio para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, servindo como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios possam acessar para ver o que está acontecendo dentro da universidade.
 
 
 # 5W2H  
@@ -63,30 +63,6 @@ Não Funcionais (caracteristicas do sistema):
  
 # Detalhamento de Requisitos 
 
-
-- 1 imagem pelo menos no projeto. pode contar mais de uma imagem, documentos, simblo que posso representar o projeto
-
-- Na pagina inicial tem que ser organizados aparecendo mais de dois projetos por linha 
-
-- O projeto pode ter um botão de encaminhar.
-
-- Ter um botão para deslogar o ADM
-
-- filtros: Ferramentas, cursos, periodo dos projetos, Unidade do IBMEC
-
-- Ter nos projetos o pepel, o vinculo que os donos do projetos tem com a IBMEC.
-
-- ter um botao para trocar a lingua (ingles para portugues)
-
-- ter um link com a biografia do grupo
-
-- ADM so cadrastra os proj, adita e pode desativar os projetos
-
-- Ter paginasão ( pagina 1 --> pagina 2) ao inves de "carregar mais"
-
-- A ordem de paginasao pode ser por ordem cronologica (mais recente primeiro)
-
-- Unica pagina de detalhamendo dos projetos  
 
 
 # Casos de Uso (MOTIVO DO SISTEMA)
