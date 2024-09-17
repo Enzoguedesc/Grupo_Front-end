@@ -66,7 +66,11 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 - O detalhamento dos projetos tem que estar em apenas uma página.
 
-- Na cooperação dos projetos terá: pessoas que participaram, curso dos alunos, início e fim do projeto, linguagem de programação utilizada, o vínculo, e o papel que os participantes têm com o projeto e um link com a biografia do grupo ("sobre-nós "), contendo foto e descrição do grupo que fez esse projeto. Será um padrão para todos os projetos essa descrição.
+- Na cooperação dos projetos terá: pessoas que participaram, curso dos alunos, início e fim do projeto, linguagem de programação utilizada, o vínculo, e o papel que os participantes têm com o projeto e um link com a biografia do grupo ("sobre-nós "), contendo foto e descrição do grupo que fez esse projeto. Será um padrão para todos os projetos essa descrição.  
+  
+- O sistema deverá ter uma página inicial que liste todos os projetos, aparecendo mais de dois projetos por linha, quando for na tela de um computador. Em mobile, tem que ser um projeto embaixo do outro. E além da imagem, tem que aparecer os nomes dos integrantes, uma breve descrição e as tecnologias usadas.  
+
+- Na página inicial os projetos serão representados com uma imagem, uma breve descrição, um titulo, nome dos participantes e tecnologias.  
 
 
 # Casos de Uso
