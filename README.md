@@ -44,7 +44,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 # Requisitos
 
-Funcionais (Funções do sistema):  
+*Funcionais (Funções do sistema):*  
  - O sistema deverá ter uma pagina que liste todos os projetos.  
  - O sistema terá um cabeçalho, dividido e com opções interagiveis.
  - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
@@ -54,7 +54,7 @@ Funcionais (Funções do sistema):
  - No sistema apenas administradores poderão editar os portfólios dos alunos.
  - O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).
 
-Não Funcionais (caracteristicas do sistema):      
+*Não Funcionais (caracteristicas do sistema):*      
  - O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).
  - O sistema será feito por React.  
  - O sistema terá um padrão de projetos.  
@@ -69,7 +69,7 @@ Não Funcionais (caracteristicas do sistema):
 - Na cooperação dos projetos terá: pessoas que participaram, curso dos alunos, início e fim do projeto, linguagem de programação utilizada, o vínculo, e o papel que os participantes têm com o projeto e um link com a biografia do grupo ("sobre-nós "), contendo foto e descrição do grupo que fez esse projeto. Será um padrão para todos os projetos essa descrição.
 
 
-# Casos de Uso (MOTIVO DO SISTEMA)
+# Casos de Uso
 
 - [Exibir detalhes do projeto;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto)
 - Buscar projetos / filtrar;
@@ -77,9 +77,11 @@ Não Funcionais (caracteristicas do sistema):
 - Contate um membro do grupo do projeto;
 - Fazer Login;
 - Exibir o "sobre-nós" (biografia do grupo);
-- Encaminhar os projetos;
+- Encaminhar os projetos;  
+  
   
 
+# ESQUELETO DO CASO DE USO
 
 Nome
 
