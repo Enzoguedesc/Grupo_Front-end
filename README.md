@@ -67,6 +67,12 @@ Não Funcionais (caracteristicas do sistema):
 
 # Casos de Uso (MOTIVO DO SISTEMA)
 
+- [Exibir detalhes do projeto](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto)
+- Buscar projetos 
+- Editar (ADM)
+- Mudar de página 
+  
+
 
 Nome
 
@@ -79,14 +85,3 @@ Pre-consicoes - qual o estado do sistema antes do caso de uso (tem que esta loga
 Fluxo principal - 
 
 pos-consicao - estado do sistema depois do caso de uso (nota fisca foi emitida, filme assistido, por ex)
-
-
-CASOS DE USO 
-
-- [Exibir detalhes do projeto](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto)
-- Buscar projetos 
-- Editar (ADM)
-- Mudar de página 
-- 
-
-
