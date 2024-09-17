@@ -62,15 +62,22 @@ Não Funcionais (caracteristicas do sistema):
  - O sistema deve ser adaptado para dispositivos mobile e computadores.  
  
 # Detalhamento de Requisitos 
+- Na lista dos projetos, você precisa ser representado por menos uma imagem. No detalhamento do projeto, você pode conter mais de uma imagem, documentos e símbolos que possam representar o projeto. Ao clicar nele o cliente será direcionado para outra página.
 
+- O detalhamento dos projetos tem que estar em apenas uma página.
+
+- Na cooperação dos projetos terá: pessoas que participaram, curso dos alunos, início e fim do projeto, linguagem de programação utilizada, o vínculo, e o papel que os participantes têm com o projeto e um link com a biografia do grupo ("sobre-nós "), contendo foto e descrição do grupo que fez esse projeto. Será um padrão para todos os projetos essa descrição.
 
 
 # Casos de Uso (MOTIVO DO SISTEMA)
 
-- [Exibir detalhes do projeto](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto)
-- Buscar projetos 
-- Editar (ADM)
-- Mudar de página 
+- [Exibir detalhes do projeto;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto)
+- Buscar projetos / filtrar;
+- Editar (ADM);
+- Contate um membro do grupo do projeto;
+- Fazer Login;
+- Exibir o "sobre-nós" (biografia do grupo);
+- Encaminhar os projetos;
   
 
 
