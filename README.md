@@ -83,7 +83,7 @@ pos-consicao - estado do sistema depois do caso de uso (nota fisca foi emitida, 
 
 CASOS DE USO 
 
-- Exibir detalhes do projeto 
+- [Exibir detalhes do projeto](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto)
 - Buscar projetos 
 - Editar (ADM)
 - Mudar de página 
