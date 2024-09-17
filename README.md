@@ -87,6 +87,8 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 # ESQUELETO DO CASO DE USO
 
+casos de uso - exibir dealhes do projeto, por exemplo
+
 Nome
 
 Atores - papel do cliente (quem vai usar o sistema?). pode ter mais de um
