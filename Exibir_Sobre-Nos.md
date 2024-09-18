@@ -2,7 +2,7 @@
 
 - **Nome** = Exibir Sobre-Nós.
 
-- **Atores** = Usuário.
+- **Atores** = O usuário.
   
 - **Descrição** = Exibir mais informações sobre os criadores do sistema (neste caso nós alunos do curso).
   
