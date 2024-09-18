@@ -6,7 +6,7 @@
 
 - **Descrição** = Ter o controle de toda a edição dos projetos.  
 
-- **Pré-Condição** = A pré-consição é estar na página de projetos, logado em sua conta como ADM.  
+- **Pré-Condição** = Estar logado em sua conta como ADM e estar na página dos projetos.  
 
 - **Fluxo Principal** = Sendo um ADM, terá o controle de editar os projetos.  
 
