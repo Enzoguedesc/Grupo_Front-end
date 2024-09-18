@@ -78,6 +78,12 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 - No sistema terá uma página que será possivel informar um par de usuário e senha para se autenticar como ADM. Essa área não será exposta no sistema. Vai ser preciso saber o endereço específico desta página. Após a autenticação, o ADM terá um botão para deslogar do sistema.
 
+- No menu de navegação terá um link para voltar para a página do IBMEC.
+
+- Quando for realizado a ação de clicar no detalhe do projeto, por exemplo, o usuário será direcionado para outra página. Ao clicar no botão de voltar, o usuário terá que voltar exatamente para página anterior que ele estava.
+
+- O sistema tem que ter um filtro com ferramentas, cursos, periodo dos projetos e Unidades do IBMEC.
+
 
 # Casos de Uso
 
