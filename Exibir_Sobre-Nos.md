@@ -8,6 +8,6 @@
   
 - **Pré-Condições** = Estar em qualquer parte do site onde seja possível ver o cabeçalho
   
-- **Fluxo Principal** = Usuário clica no botão sobre nós localizado no cabeçalho
+- **Fluxo Principal** = Usuário clica no botão "sobre nós" localizado no cabeçalho
   
 - **Pós-Condição** = Acesso a todas as informações dos desenvolvedores do sistema
