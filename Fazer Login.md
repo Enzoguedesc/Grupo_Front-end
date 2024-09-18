@@ -1,14 +1,26 @@
-# Fazer Login
+Atores:
 
-- **Nome** = Fazer login.
+Administrador (ADM)
+Descrição:
+Apenas os ADMs poderão realizar o login com o intuito de modificar algo no site ou portfólios.
 
-- **Atores** = ADM.
+Pré-Condição:
 
-- **Descrição** = apenas os ADMs poderão realizar o login com o intuito de modificar algo no site/portifólios .
+O usuário deve já estar cadastrado no site como ADM.
+O usuário deve ter acesso à internet para acessar o site.
+Fluxo Principal:
 
-- **Pré-Condição** = A pré-consição é já ter cadastro no site como ADM e ter o acesso a internet para acessá-lo 
+O ADM acessa a página de login.
+O ADM insere suas credenciais (nome de usuário e senha).
+O ADM clica no botão de "Login".
+O sistema valida as credenciais:
+Se as credenciais forem válidas, o sistema autentica o ADM e cria uma sessão.
+Se as credenciais forem inválidas, o sistema exibe uma mensagem de erro.
+Pós-Condição:
 
-- **Fluxo Principal** = Acessar a página de login para o inserimento das credenciais e mostrando validação ou não.
-
-- **Pós-Condição** = Após feito o login o usuário poderá ou não ser autenticado, em caso positivo uma sessão deverá ser criada. 
-Uma interface deverá aparecer com seu nome no site para comprovar que seu login foi um sucesso, assim como a opção de logout
+Se o login for bem-sucedido:
+O usuário é autenticado e uma sessão é criada.
+A interface do site é atualizada para mostrar o nome do ADM.
+O ADM tem acesso a funcionalidades administrativas e a opção de logout.
+Se o login não for bem-sucedido:
+O usuário permanece na página de login e pode tentar novamente.
