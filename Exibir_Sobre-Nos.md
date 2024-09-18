@@ -4,7 +4,7 @@
 
 - **Atores** = Usuário
   
-- **Descrição** = Exibir mais informações sobre os criadores do sistema (neste caso nós aluno do curso)
+- **Descrição** = Exibir mais informações sobre os criadores do sistema (neste caso nós alunos do curso)
   
 - **Pré-Condições** = Estar em qualquer parte do site onde seja possível ver o cabeçalho
   
