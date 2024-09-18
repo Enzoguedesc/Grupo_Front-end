@@ -93,5 +93,5 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 - Contate um membro do grupo do projeto;
 - Fazer Login;
 - Exibir o "sobre-nós" (biografia do grupo);
-- Encaminhar os projetos;  
+- Encaminhar os projetos;(https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Encaminhar_projetos.md)  
   
