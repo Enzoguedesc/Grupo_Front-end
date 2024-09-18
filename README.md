@@ -76,7 +76,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 # Casos de Uso
 
 - [Exibir detalhes do projeto;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto.md)
-- Buscar projetos / filtrar;
+- [Buscar projetos / filtrar;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Buscar%20projetos%20e%20Filtrar.md)
 - Editar (ADM);
 - Contate um membro do grupo do projeto;
 - Fazer Login;
