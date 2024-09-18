@@ -70,7 +70,13 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
   
 - O sistema deverá ter uma página inicial que liste todos os projetos, aparecendo mais de dois projetos por linha, quando for na tela de um computador. Em mobile, tem que ser um projeto embaixo do outro. E além da imagem, tem que aparecer os nomes dos integrantes, uma breve descrição e as tecnologias usadas.  
 
-- Na página inicial os projetos serão representados com uma imagem, uma breve descrição, um titulo, nome dos participantes e tecnologias.  
+- Na página inicial os projetos serão representados com uma imagem, uma breve descrição, um titulo, nome dos participantes e tecnologias.
+  
+- Cada grupo vai receber um par email e senha.
+
+- Cada projeto pode ter um botão de encaminhar, para poder compartilhar com quem quiser.
+
+- No sistema terá uma página que será possivel informar um par de usuário e senha para se autenticar como ADM. Essa área não será exposta no sistema. Vai ser preciso saber o endereço específico desta página. Após a autenticação, o ADM terá um botão para deslogar do sistema.
 
 
 # Casos de Uso
