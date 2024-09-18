@@ -59,7 +59,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
  - O sistema será feito por React.  
  - O sistema terá um padrão de projetos.  
  - O sistema terá dois idiomas diferentes (Inglês e Português).    
- - O sistema deve ser adaptado para dispositivos mobile e computadores.  
+ - O sistema deve ser adaptado para dispositivos mobile e computadores.    
  
 # Detalhamento de Requisitos 
 - Na lista dos projetos, você precisa ser representado por menos uma imagem. No detalhamento do projeto, você pode conter mais de uma imagem, documentos e símbolos que possam representar o projeto. Ao clicar nele o cliente será direcionado para outra página.
