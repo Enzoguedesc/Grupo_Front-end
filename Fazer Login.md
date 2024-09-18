@@ -8,6 +8,7 @@ Pré-Condição:
 
 O usuário deve já estar cadastrado no site como ADM.
 O usuário deve ter acesso à internet para acessar o site.
+
 Fluxo Principal:
 
 O ADM acessa a página de login.
@@ -16,6 +17,7 @@ O ADM clica no botão de "Login".
 O sistema valida as credenciais:
 Se as credenciais forem válidas, o sistema autentica o ADM e cria uma sessão.
 Se as credenciais forem inválidas, o sistema exibe uma mensagem de erro.
+
 Pós-Condição:
 
 Se o login for bem-sucedido:
