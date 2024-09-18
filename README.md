@@ -44,17 +44,17 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 # Requisitos
 
-*Funcionais (Funções do sistema):*  
+**Funcionais (Funções do sistema):**  
  - O sistema deverá ter uma pagina que liste todos os projetos.  
  - O sistema terá um cabeçalho, dividido e com opções interagiveis.
- - O sistema tem que ter um filtro (nome do aluno, curso dos alunos).  
+ - O sistema tem que ter um filtro (ferramentas, cursos, períodos ou Unidades do IBMEC).  
  - No sistema terá um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
  - Na listagem dos projetos, eles precisam ser representados por pelos menos uma imagem.  
  - Cada aluno terá um proprio link, que irá conter todos os projetos dele.  
  - No sistema apenas administradores poderão editar os portfólios dos alunos.
  - O sistema terá as descrições dos projetos (pessoas que participaram, curso dos alunos, inicio e fim do projeto, linguagem de programação utilizada, etc).
 
-*Não Funcionais (caracteristicas do sistema):*      
+**Não Funcionais (caracteristicas do sistema):**      
  - O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).
  - O sistema será feito por React.  
  - O sistema terá um padrão de projetos.  
