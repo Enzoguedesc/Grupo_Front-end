@@ -1,4 +1,4 @@
-#Caso de Uso: Exibir Sobre-Nós
+#  Caso de Uso: Exibir Sobre-Nós
 
 - **Atores** = Usuário
 - **Descrição** = Exibir mais informações sobre os criadores do sistema (neste caso nós aluno do curso)
