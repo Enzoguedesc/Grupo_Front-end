@@ -1,4 +1,4 @@
-#  Caso de Uso: Exibir Sobre-Nós
+# Exibir Sobre-Nós:
 
 - **Nome** = Exibir Sobre-Nós.
 
