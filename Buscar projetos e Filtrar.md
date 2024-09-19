@@ -2,9 +2,9 @@
 
 - **Nome** = Buscar projetos / filtrar.  
   
-- **Atores** = Usuarios e ADM.
+- **Atores** = Usuários e ADM.
   
-- **Descrição** = Utilizado para buscar projetos expecificos rapidamente.  
+- **Descrição** = Utilizado para buscar projetos expecíficos rapidamente.  
   
 - **Pré-Condições** = Ter entrado no sistema e estar na página de listagem de projetos.  
   
