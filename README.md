@@ -48,7 +48,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
  - O sistema deverá ter uma pagina que liste todos os projetos.  
  - O sistema terá um cabeçalho, dividido e com opções interagiveis.
  - O sistema tem que ter um filtro (ferramentas, cursos, períodos ou Unidades do IBMEC).  
- - No sistema terá um botão ("Carregar mais") no final da pagina para ter mais detalhes de cada projeto, indo para outra página.  
+ - No sistema terá paginação (página 1 --> página 2), para poder visualizar outros projetos, sendo encaminhado para outra página. 
  - Na listagem dos projetos, eles precisam ser representados por pelos menos uma imagem.  
  - Cada aluno terá um proprio link, que irá conter todos os projetos dele.  
  - No sistema apenas administradores poderão editar os portfólios dos alunos.
