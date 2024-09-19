@@ -62,7 +62,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
  - O sistema deve ser adaptado para dispositivos mobile e computadores.    
  
 # Detalhamento de Requisitos 
-- Na lista dos projetos, você precisa ser representado por menos uma imagem. No detalhamento do projeto, você pode conter mais de uma imagem, documentos e símbolos que possam representar o projeto. Ao clicar nele o cliente será direcionado para outra página.
+- Na lista dos projetos, um projeto precisa ser representado por pelo menos uma imagem. No detalhamento do projeto, você pode conter mais de uma imagem, documentos e símbolos que possam representar o projeto. Ao clicar nele o cliente será direcionado para outra página.
 
 - O detalhamento dos projetos tem que estar em apenas uma página.
 
