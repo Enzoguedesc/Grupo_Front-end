@@ -1,6 +1,6 @@
 #  Editar (ADM):
 
-- **Nome** = Editar (ADM).  
+- **Nome** = Editar.  
 
 - **Atores** = ADM.  
 
