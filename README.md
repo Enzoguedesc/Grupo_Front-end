@@ -11,11 +11,11 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 
 # 5W2H  
-5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos no projeto, nesse caso um sistema de portfólios da IBMEC, que tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como, e quanto.  
+5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos no projeto, nesse caso um sistema de portfólios do IBMEC, que tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como, e quanto.  
 
 - What?  
   O que é o sistema?
-  - Um site feito pela Ibmec para mostrar os portfólios criados pelos alunos.  
+  - Um site feito pelo Ibmec para mostrar os portfólios criados pelos alunos.  
 
 - Why?  
   Por que o sistema existe?  
