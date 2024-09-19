@@ -96,7 +96,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 - [Exibir detalhes do projeto;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir%20detalhes%20do%20projeto.md)
 - [Buscar projetos / filtrar;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Buscar%20projetos%20e%20Filtrar.md)
 - [Editar (ADM);](https://github.com/Enzoguedesc/Grupo_Front-end/blob/dc946af5d4a71d289e3654798f9a9dad3faa7241/Editar%20(ADM).md)
-- Contate um membro do grupo do projeto;
+- [Contate um membro do grupo do projeto;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/3b475293b32a08f6fd7cb7e10c9f66f438ddbcff/Contate%20um%20membro%20do%20grupo%20do%20projeto.md)
 - [Fazer Login;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/5790513e41cea8941c5ada3983c4f3b64dbfca0f/Fazer%20Login.md)
 - [Exibir o "sobre-nós" (Informações dos desenvolvedores do sistema);](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Exibir_Sobre-Nos.md)
 - [Encaminhar os projetos;](https://github.com/Enzoguedesc/Grupo_Front-end/blob/main/Encaminhar_projetos.md)  
