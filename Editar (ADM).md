@@ -2,7 +2,7 @@
 
 - **Nome** = Editar.  
 
-- **Atores** = ADM.  
+- **Atores** = Apenas o ADM.  
 
 - **Descrição** = Ter o controle de toda a edição dos projetos.  
 
