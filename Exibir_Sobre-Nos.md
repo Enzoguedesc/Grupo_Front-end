@@ -10,4 +10,4 @@
   
 - **Fluxo Principal** = Usuário clica no botão "sobre nós" localizado no cabeçalho.
   
-- **Pós-Condição** = Acesso a todas as informações dos desenvolvedores do sistema.
+- **Pós-Condição** = O sistema exibe as informações dos desenvolvedores do sistema.
