@@ -6,7 +6,7 @@
 
 - **Descrição** = Apenas os ADMs poderão realizar o login com o intuito de modificar algo no site ou portfólios.  
 
-- **Pré-Condição** = O usuário deve ter acesso à internet para acessar o sistema e ter acessado o endereço para ser autenticar como ADM.  
+- **Pré-Condição** = O usuário deve estar conectado à internet para acessar o sistema e ter acessado o endereço para se autenticar como ADM.  
 
 - **Fluxo Principal** = O ADM acessa o endereço para fazer login. O ADM insere suas credenciais (nome de usuário e senha). O ADM clica no botão de "Login". O sistema valida as credenciais: Se as credenciais forem válidas, o sistema autentica o ADM e cria uma sessão. Se as credenciais forem inválidas, o sistema exibe uma mensagem de erro.  
 
