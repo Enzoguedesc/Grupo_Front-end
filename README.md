@@ -94,7 +94,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 - A ordenação padrão dos projetos é em ordem cronológica.
 
-- Cada aluno terá um link próprio (Ex: PortfolioIbmec.com.br/DiegoBonani) contendo os projetos em que participou.
+- Cada aluno terá um link próprio (Ex: portfolioIbmec.com.br/DiegoBonani) contendo os projetos em que participou.
 
 
 # Casos de Uso
