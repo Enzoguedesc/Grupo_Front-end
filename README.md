@@ -74,7 +74,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 - O sistema vai precisar de um botão para trocar a linguagem (de português para Inglês, por exemplo).
 
-- O ADM apenas edita e desativa os projetos.  
+- O ADM apenas editar e desativa os projetos.  
 
 - O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).  
   
