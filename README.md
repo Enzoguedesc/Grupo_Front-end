@@ -51,7 +51,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
    - Quando for realizado a ação de clicar no detalhe do projeto o usuário será direcionado para outra página.
    - A ordenação padrão dos projetos é em ordem cronológica.
  - O sistema tem que ter um filtro/barra de pesquisa.
-   -  Opcões para o filtro:ferramentas, cursos, periodo dos projetos e Unidades do IBMEC.
+   -  Opcões para o filtro: ferramentas, cursos, periodo dos projetos e Unidades do IBMEC.
  - No sistema terá paginação (página 1 --> página 2), para poder visualizar outros projetos, sendo encaminhado para outra página. 
  - Cada aluno terá um proprio link, que irá conter todos os projetos dele.
  - Cada projeto terá uma página de detalhamento única.
@@ -65,7 +65,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
    - Essa área não será exposta no sistema, vai ser preciso saber o endereço específico desta página.
    - Após a autenticação, o ADM terá um botão para deslogar do sistema.
  - Ao clicar no botão de voltar, o usuário terá que voltar exatamente para página anterior que ele estava.
- - - Cada aluno terá um link próprio (Ex: portfolioIbmec.com.br/DiegoBonani) contendo os projetos em que participou.
+ - Cada aluno terá um link próprio (Ex: portfolioIbmec.com.br/DiegoBonani) contendo os projetos em que participou.
 
 **Não Funcionais (caracteristicas do sistema):**      
  - O sistema terá cores aderentes à identidade visual do Ibmec.
