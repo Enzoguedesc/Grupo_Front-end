@@ -69,7 +69,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 **Não Funcionais (caracteristicas do sistema):**      
  - O sistema terá cores aderentes à identidade visual do Ibmec.
-   - As cores do Ibmec são: Azul escuro #002555, Amarelo #F5AC00, Azul claro #1245FF
+   - As cores do Ibmec são: Azul escuro #002555, Amarelo #F5AC00, Azul #1245FF
  - O sistema será feito por React.  
  - O sistema terá um padrão de projetos.  
  - O sistema terá dois idiomas diferentes (Inglês e Português).
