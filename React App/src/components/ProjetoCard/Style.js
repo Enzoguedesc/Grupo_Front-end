@@ -2,13 +2,13 @@ import styled from "styled-components";
 
 const Imagem = styled.article`
     width: 15rem;
-    background-color: var(--detalhe);
+    background-color: var(--destaque);
     padding: .5em;
     position: relative;
 
     div.nome{
         background-color: var(--background);
-        color: var(--detalhe);
+        color: var(--primaria);
         text-align: center;
         font-size: larger;
         font-weight: bold;
