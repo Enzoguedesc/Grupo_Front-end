@@ -3,8 +3,8 @@ import { Top } from "./Style";
 
 const Header = () => (
   <Top>
+    <img src="https://cdn.portal.estacio.br/1_Desktop_ibmec_logo_430884bed1.svg" alt='Logomarca-ibmec'/>
     <Link to="/">Home</Link>
-    <Link to="/atletas">Atletas</Link>
     <Link to="/sobre-nos">Sobre-Nós</Link>
     { window.sessionStorage.getItem('accessToken')
     ? <Link to="/logout">Logout</Link>
