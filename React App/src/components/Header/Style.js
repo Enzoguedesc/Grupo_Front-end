@@ -6,6 +6,7 @@ const Top = styled.header`
   display: flex;
   flex-direction: row;
   margin: 0;
+  border-bottom: 1px solid var(--primaria);
   
   a {
     text-align: center;
