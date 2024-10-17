@@ -6,6 +6,7 @@ const Top = styled.header`
   display: flex;
   flex-direction: row;
   margin: 0;
+  
   a {
     text-align: center;
     padding: .3em;
