@@ -5,7 +5,7 @@ const Imagem = styled.article`
     background-color: var(--destaque);
     padding: .5em;
     position: relative;
-    margin: 5rem;
+    margin: 1vmax;
 
     div.nome{
         background-color: var(--background);
