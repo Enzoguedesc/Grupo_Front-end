@@ -89,6 +89,6 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 - [Link](https://www.canva.com/design/DAGRy421WpI/XsTYpFcvOeSsQU3uwmEXxw/edit)
 
-#Protótipo
+# Protótipo
 
 - [Link](https://www.figma.com/design/o3H2XyWzj1dHUAA1pZX9oT/Front-end---AP1?node-id=0-1&t=h8DTWxlsC8o2wZ9X-1)
