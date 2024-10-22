@@ -15,11 +15,16 @@ const Home = () => {
       }
     })
   },[]) */
-
+  const projetos = ["Projeto1", "Projeto2", "Projeto3", "Projeto4", "Projeto5"];
 
   return (
     <Base>
-      <ProjetoCard nome="Projeto 1"/>
+      {
+       projetos.map((projeto, index) =>
+        <ProjetoCard nome={projeto} key={index}/>
+
+      )
+      }
     </Base>
   )
 }
