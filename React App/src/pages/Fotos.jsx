@@ -1,16 +1,16 @@
 import FotoCard from "../components/FotoCard/FotoCard";
 import ListContainer from "../components/ListContainer/ListContainer";
-import dados from "../data/computadores.json";
+import dados from "../data/projetos.json";
 import Protegida from "./Protegida";
 
 const Fotos = () => {
- 
+
   return (
       <Protegida>
         <ListContainer>
           {dados.map(
             (el, index) => (
-              <FotoCard 
+              <FotoCard
                 key={index}
                 titulo={el.nome}
                 src={`${process.env.PUBLIC_URL}/${el.url}`}
@@ -20,7 +20,7 @@ const Fotos = () => {
               )
           )}
           </ListContainer>
-      </Protegida>      
+      </Protegida>
  )
 };
 
