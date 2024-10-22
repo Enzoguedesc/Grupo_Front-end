@@ -3,6 +3,7 @@ import Base from "./Base"
 import { auth } from "../config/Firebase";
 import { useEffect } from "react";
 import ProjetoCard from "../components/ProjetoCard/ProjetoCard";
+import ListContainer from "../components/ListContainer/ListContainer";
 
 const Home = () => {
 
@@ -15,16 +16,18 @@ const Home = () => {
       }
     })
   },[]) */
-  const projetos = ["Projeto1", "Projeto2", "Projeto3", "Projeto4", "Projeto5"];
+
+const projetos = ["Projeto1", "Projeto2", "Projeto3", "Projeto4", "Projeto5"];
 
   return (
     <Base>
-      {
-       projetos.map((projeto, index) =>
-        <ProjetoCard nome={projeto} key={index}/>
-
-      )
-      }
+      <h1>Projetos</h1>
+      <ListContainer>
+        {
+          projetos.map((projeto, index) =>
+          <ProjetoCard nome={projeto} key={index}/>)
+        }
+      </ListContainer>
     </Base>
   )
 }

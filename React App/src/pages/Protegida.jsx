@@ -17,6 +17,6 @@ const Protegida = (props) => {
     } 
     </Base>
   )
-}
+ }
 
 export default Protegida;

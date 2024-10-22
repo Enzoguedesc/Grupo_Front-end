@@ -9,8 +9,7 @@ const ProjetoCard = (props) => {
                 <figure>
                     <img src={props.src} alt="Imagem"/>
                 </figure>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit sunt eius consequatur unde harum voluptas numquam delectus!
-                     Suscipit excepturi nesciunt voluptatum molestias assumenda rem ad, adipisci ab debitis, ipsam rerum.</p>
+                <p>Desenvolvimento de um sistema inovador de portfólios do zero, com foco em usabilidade, organização e inovação. Utilizando Html, CSS, JavaScript e o Figma.</p>
                 <Link to='detalhamento'>Saiba mais</Link>
             </Imagem>
     )
