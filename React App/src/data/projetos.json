@@ -20,29 +20,21 @@
    {
     "titulo" : "Projeto Simulador Arduino",
     "id" : 3,
-    "detalhes" : "",
-    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
-    "url-imagem" : "",
-    "ferramentas" : "",
-    "papeis" : ""
+    "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
+    "colaboradores" : ["Diego", "Pedro", "Leandro"],
+    "url-imagem" : "https://images.unsplash.com/photo-1629739884942-8678d138dd64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ferramentas" : "HTML, CSS, JavaScript, Node.js, bibliotecas de simulação de circuitos",
+    "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
    },
    {
-    "titulo" : "Projeto Simulador Arduino",
+    "titulo" : "Projeto Simulador de Controle de Sistemas",
     "id" : 4,
-    "detalhes" : "",
-    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
-    "url-imagem" : "",
-    "ferramentas" : "",
-    "papeis" : ""
-   },
-   {
-    "titulo" : "Projeto Simulador Arduino",
-    "id" : 5,
-    "detalhes" : "",
-    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
-    "url-imagem" : "",
-    "ferramentas" : "",
-    "papeis" : ""
+    "detalhes" : "O Simulador de Controle de Sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+    "colaboradores" : ["Enzo", "Mateus", "Renan"],
+    "url-imagem" : "https://media.istockphoto.com/id/1332536749/pt/foto/a-computer-futuristic-software-digital-hud-interface-of-the-future-with-a-control-system-for.jpg?s=2048x2048&w=is&k=20&c=-o5LVXELB43Cn6LIX8G8ilvudymIgRL_zyznu_KYVjQ=",
+    "ferramentas" : "HTML, CSS, JavaScript, Node.js, bibliotecas de simulação de circuitos",
+    "papeis" : "Enzo será Desenvolvedor Frontend sendo responsável por Implementação de Funcionalidades Interativas, Desenvolvimento da Interface do Usuário; Mateus será Desenvolvedor Backend, realizará Gerenciamento de Banco de Dados, Desenvolvimento da Lógica do Servidor; Renan será Designer de Interface e Documentação apresentando Documentação de Design, Desenvolvimento de Wireframes e Protótipos"
    }
+
 
 ]
