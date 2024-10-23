@@ -18,7 +18,7 @@ const Detalhamento = () => {
               <DetalhamentoCard
                 key={index}
                 titulo={pro.titulo}
-                src={`${process.env.PUBLIC_URL}/${pro.url}`}
+                url={`${process.env.PUBLIC_URL}/${pro.url}`}
                 detalhes={pro.detalhes}
                 colaboradores={pro.colaboradores}
                 ferramentas={pro.ferramentas}
