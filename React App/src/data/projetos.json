@@ -2,26 +2,47 @@
    {
     "titulo" : "Projeto Simulador Arduino",
     "id" : 1,
+    "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
+    "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
+    "url-imagem" : "",
+    "ferramentas" : "Html, CSS, JavaScript.",
+    "papeis" : "Enzo Guedes, responsavel pelo design do sistema; \nLuca Confente, responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen, foram responsaveis por programar o sistema;"
+   },
+   {
+    "titulo" : "Projeto Simulador Arduino",
+    "id" : 2,
     "detalhes" : "",
     "colaboradores" : ["Diego", "Lucas", "Gabriel"],
-    "url-imagem" : ""
+    "url-imagem" : "",
+    "ferramentas" : "",
+    "papeis" : ""
    },
    {
-    "url" : "imagens/old-computer-2.jpg",
-    "nome": "monitor desligado",
-    "link_original": "https://unsplash.com/pt-br/fotografias/monitor-macintosh-desligado-VeUSCLJrLf4",
-    "agradecimento": "Foto de <a href='https://unsplash.com/pt-br/@ninjason?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Jason Leung</a> na <a href='https://unsplash.com/pt-br/fotografias/monitor-macintosh-desligado-VeUSCLJrLf4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
+    "titulo" : "Projeto Simulador Arduino",
+    "id" : 3,
+    "detalhes" : "",
+    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
+    "url-imagem" : "",
+    "ferramentas" : "",
+    "papeis" : ""
    },
    {
-    "url" : "imagens/old-computer-3.jpg",
-    "nome": "consoles de jogos",
-    "link_original": "https://unsplash.com/pt-br/fotografias/console-de-jogos-cinza-vintage-e-joystick-p0j-mE6mGo4",
-    "agradecimento": "Foto de <a href='https://unsplash.com/pt-br/@lorenzoherrera?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Lorenzo Herrera</a> na <a href='https://unsplash.com/pt-br/fotografias/console-de-jogos-cinza-vintage-e-joystick-p0j-mE6mGo4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
+    "titulo" : "Projeto Simulador Arduino",
+    "id" : 4,
+    "detalhes" : "",
+    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
+    "url-imagem" : "",
+    "ferramentas" : "",
+    "papeis" : ""
    },
    {
-    "url" : "imagens/old-computer-4.jpg",
-    "nome": "mesa comunicação",
-    "link_original": "https://unsplash.com/pt-br/fotografias/telefone-de-mesa-ip-preto-e-branco-na-mesa-de-madeira-marrom-anaUCgS2fqE",
-    "agradecimento": "Foto de <a href='https://unsplash.com/pt-br/@wizzyfx?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Ugi K.</a> na <a href='https://unsplash.com/pt-br/fotografias/telefone-de-mesa-ip-preto-e-branco-na-mesa-de-madeira-marrom-anaUCgS2fqE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
+    "titulo" : "Projeto Simulador Arduino",
+    "id" : 5,
+    "detalhes" : "",
+    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
+    "url-imagem" : "",
+    "ferramentas" : "",
+    "papeis" : ""
    }
+
 ]
