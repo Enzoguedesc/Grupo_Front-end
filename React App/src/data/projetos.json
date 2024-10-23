@@ -9,13 +9,13 @@
     "papeis" : "Enzo Guedes, responsavel pelo design do sistema; \nLuca Confente, responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen, foram responsaveis por programar o sistema;"
    },
    {
-    "titulo" : "Projeto Simulador Arduino",
+    "titulo" : "Projeto de Arquitetura",
     "id" : 2,
-    "detalhes" : "",
-    "colaboradores" : ["Diego", "Lucas", "Gabriel"],
-    "url-imagem" : "",
-    "ferramentas" : "",
-    "papeis" : ""
+    "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
+    "colaboradores" : ["Marco", "Lucas", "Gabriel"],
+    "url-imagem" : "../public/imagens/pramod-tiwari-qxhrOLO52os-unsplash.jpg",
+    "ferramentas" : "SketchUp, V-Ray, AutoCAD, Lumion, Photoshop",
+    "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização /n Alan, responsavel pelo gerenciamento e organização do projeto."
    },
    {
     "titulo" : "Projeto Simulador Arduino",
