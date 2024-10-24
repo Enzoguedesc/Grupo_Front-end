@@ -15,7 +15,7 @@
     "colaboradores" : ["Marco", "Lucas", "Gabriel"],
     "url-imagem" : "../public/imagens/pramod-tiwari-qxhrOLO52os-unsplash.jpg",
     "ferramentas" : "SketchUp, V-Ray, AutoCAD, Lumion, Photoshop",
-    "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização /n Alan, responsavel pelo gerenciamento e organização do projeto."
+    "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização \n Alan, responsavel pelo gerenciamento e organização do projeto."
    },
    {
     "titulo" : "Projeto Simulador Arduino",
@@ -33,8 +33,16 @@
     "colaboradores" : ["Enzo", "Mateus", "Renan"],
     "url-imagem" : "https://media.istockphoto.com/id/1332536749/pt/foto/a-computer-futuristic-software-digital-hud-interface-of-the-future-with-a-control-system-for.jpg?s=2048x2048&w=is&k=20&c=-o5LVXELB43Cn6LIX8G8ilvudymIgRL_zyznu_KYVjQ=",
     "ferramentas" : "HTML, CSS, JavaScript, Node.js, bibliotecas de simulação de circuitos",
-    "papeis" : "Enzo será Desenvolvedor Frontend sendo responsável por Implementação de Funcionalidades Interativas, Desenvolvimento da Interface do Usuário; Mateus será Desenvolvedor Backend, realizará Gerenciamento de Banco de Dados, Desenvolvimento da Lógica do Servidor; Renan será Designer de Interface e Documentação apresentando Documentação de Design, Desenvolvimento de Wireframes e Protótipos"
+    "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos"
+   },
+   {
+    "titulo": "Simulador de Julgamento",
+    "id" : 5,
+    "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
+    "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
+    "url-imagem" : "https://images.unsplash.com/photo-1676312210846-104b89aafd81?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ferramentas" : "HTML, CSS, JavaScript, plataformas de videoconferência, banco de dados para gerenciamento de casos",
+    "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme será Facilitador de simulações e documentação"
    }
-
 
 ]
