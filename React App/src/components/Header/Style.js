@@ -9,16 +9,18 @@ const Top = styled.header`
   border-bottom: 1px solid var(--primaria);
   
   a {
+    min-height: 1rem;
     text-align: center;
     margin: 0 .7em;
-    min-width: fit-content;
+    width: 7rem;
     text-decoration: none;
     font-weight: bold;
-    display: flex;
+    display: grid;
     align-items:center;
     justify-self: center;
     color: var(--primaria);
     text-transform: uppercase;
+    
     /*border-radius: .3em;*/
     &:hover{
       color: var(--secundaria);
