@@ -29,7 +29,7 @@
    {
     "titulo" : "Projeto Simulador de Controle de Sistemas",
     "id" : 4,
-    "detalhes" : "O Simulador de Controle de Sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+    "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
     "colaboradores" : ["Enzo", "Mateus", "Renan"],
     "url" : "",
     "ferramentas" : "HTML, CSS, JavaScript, Node.js, bibliotecas de simulação de circuitos",
@@ -42,7 +42,7 @@
     "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
     "url" : "",
     "ferramentas" : "HTML, CSS, JavaScript, plataformas de videoconferência, banco de dados para gerenciamento de casos",
-    "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme será Facilitador de simulações e documentação"
+    "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
    }
 
 ]
