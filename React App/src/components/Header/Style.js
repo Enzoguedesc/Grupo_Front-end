@@ -10,7 +10,7 @@ const Top = styled.header`
   align-content: space-between;
   flex-wrap: wrap;
 
-  
+
   a {
     min-height: 1rem;
     text-align: center;
@@ -23,7 +23,7 @@ const Top = styled.header`
     justify-self: center;
     color: var(--primaria);
     text-transform: uppercase;
-    
+
     /*border-radius: .3em;*/
     &:hover{
       color: var(--secundaria);
@@ -38,7 +38,7 @@ const Top = styled.header`
   .Pesquisar{
     display: flex;
     position: fixed;
-    transform: translate(1000px, 10px);
+    transform: translate(1300px, 10px);
   }
 `
 

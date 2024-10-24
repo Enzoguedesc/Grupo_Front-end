@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <Base>
-      <h1>Projetos</h1>
+      <h1 className="NomeProjetos">Projetos</h1>
       <ListContainer>
         {
           dados.map((pro, index) =>
