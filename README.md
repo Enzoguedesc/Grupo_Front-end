@@ -92,6 +92,7 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 # Protótipo
 
 - [Link](https://www.figma.com/design/o3H2XyWzj1dHUAA1pZX9oT/Front-end---AP1?node-id=0-1&t=h8DTWxlsC8o2wZ9X-1)
+- [Link02](https://www.figma.com/design/u9UExaEvoR5HJagcmbIyj5/Untitled?node-id=0-1&node-type=canvas&t=TPrD1TX0J2UUCyCa-0)
 
 # Notion
 
