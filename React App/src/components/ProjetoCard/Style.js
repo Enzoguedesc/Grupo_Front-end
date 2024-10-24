@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Imagem = styled.article`
-    width: 15rem;
+    width: 35vmax;
     background-color: var(--destaque);
     padding: .5em;
     position: relative;

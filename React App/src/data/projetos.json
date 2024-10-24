@@ -13,7 +13,7 @@
     "id" : 2,
     "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
     "colaboradores" : ["Marco", "Lucas", "Gabriel"],
-    "url" : "imagens/pramod-tiwari-qxhrOLO52os-unsplash.jpg",
+    "url" : "imagens/modelo.jpg",
     "ferramentas" : "SketchUp, V-Ray, AutoCAD, Lumion, Photoshop",
     "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização \n Alan, responsavel pelo gerenciamento e organização do projeto."
    },
@@ -22,7 +22,7 @@
     "id" : 3,
     "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
     "colaboradores" : ["Diego", "Pedro", "Leandro"],
-    "url" : "",
+    "url" : "imagens/arduino.jpg",
     "ferramentas" : "HTML, CSS, JavaScript, Node.js, bibliotecas de simulação de circuitos",
     "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
    },
@@ -31,7 +31,7 @@
     "id" : 4,
     "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
     "colaboradores" : ["Enzo", "Mateus", "Renan"],
-    "url" : "",
+    "url" : "imagens/ControleSistema.jpg",
     "ferramentas" : "HTML, CSS, JavaScript, Node.js, bibliotecas de simulação de circuitos",
     "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos"
    },
@@ -40,7 +40,7 @@
     "id" : 5,
     "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
     "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-    "url" : "",
+    "url" : "imagens/julgamento.jpeg",
     "ferramentas" : "HTML, CSS, JavaScript, plataformas de videoconferência, banco de dados para gerenciamento de casos",
     "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
    }

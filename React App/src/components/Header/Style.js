@@ -10,17 +10,17 @@ const Top = styled.header`
   
   a {
     text-align: center;
-    padding: .3em;
     margin: 0 .7em;
-    min-width: 5em;
-    background-color: var(--secundaria);
+    min-width: fit-content;
     text-decoration: none;
     font-weight: bold;
-    color: var(--background);
+    display: flex;
+    align-items:center;
+    justify-self: center;
+    color: var(--primaria);
     text-transform: uppercase;
     /*border-radius: .3em;*/
     &:hover{
-      background-color: var(--destaque);
       color: var(--secundaria);
     }
   }
