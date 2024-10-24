@@ -4,7 +4,7 @@ const DetalheArticle = styled.article`
     width: min-content;
 
     img {
-        width: 95vmax;
+        width: 91vmax;
         height: 70vh;
     }
 `
