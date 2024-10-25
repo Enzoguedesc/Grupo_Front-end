@@ -37,8 +37,8 @@ const Top = styled.header`
 
   .Pesquisar{
     display: flex;
-    position: fixed;
-    transform: translate(1300px, 10px);
+    position: absolute;
+    transform: translate(80vmax, 2vmin);
   }
 `
 
