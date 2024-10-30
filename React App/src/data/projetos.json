@@ -13,12 +13,12 @@
     "id" : 2,
     "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
     "colaboradores" : ["Marco", "Lucas", "Gabriel"],
-    "url" : "imagens/modelo.jpg",
+    "url" : "imagens/modelo3d.jpg",
     "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
     "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização \n Alan, responsavel pelo gerenciamento e organização do projeto."
    },
    {
-    "titulo" : "Projeto Simulador Arduino",
+    "titulo" : "Simulador Arduino",
     "id" : 3,
     "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
     "colaboradores" : ["Diego", "Pedro", "Leandro"],
@@ -27,7 +27,7 @@
     "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
    },
    {
-    "titulo" : "Projeto Simulador de Controle de Sistemas",
+    "titulo" : "Simulador de Controle de Sistemas",
     "id" : 4,
     "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
     "colaboradores" : ["Enzo", "Mateus", "Renan"],

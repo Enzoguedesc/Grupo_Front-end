@@ -5,12 +5,14 @@ import { Imagem } from "./Style";
 const ProjetoCard = (props) => {
     return(
             <Imagem>
-                <div className="nome">{props.titulo}</div>
+                <div className="titulo">{props.titulo}</div>
                 <figure>
                     <img src={props.src} alt="Imagem"/>
                 </figure>
-                <p>{props.detalhes}</p>
-                <Link to={`detalhamento/${props.id}`}>Saiba mais</Link>
+                <div className="ContainerDetalhes">
+                    <p>{props.detalhes}</p>
+                    <Link to={`detalhamento/${props.id}`}>Saiba mais</Link>
+                </div>
             </Imagem>
     )
 }

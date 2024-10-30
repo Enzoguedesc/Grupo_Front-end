@@ -1,11 +1,14 @@
 import styled from "styled-components";
 
 const DetalheArticle = styled.article`
-    width: min-content;
+    width: 50vmax;
+    color: var(--primaria);
+    display:flex;
+    flex-direction: column;
+    margin-inline: auto;
 
     img {
-        width: 91vmax;
-        height: 70vh;
+        width: 100%;
     }
 `
 
