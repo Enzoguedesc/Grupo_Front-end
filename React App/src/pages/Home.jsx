@@ -5,6 +5,7 @@ import { useEffect } from "react";
 import ProjetoCard from "../components/ProjetoCard/ProjetoCard";
 import ListContainer from "../components/ListContainer/ListContainer";
 import dados from "../data/projetos.json";
+import BarraTarefas from "../components/BarraTarefas/BarraTarefas";
 
 const Home = () => {
 
@@ -27,6 +28,7 @@ const Home = () => {
           <ProjetoCard titulo={pro.titulo} key={index} id={pro.id} detalhes={pro.detalhes} src={pro.url} />)
         }
       </ListContainer>
+      <BarraTarefas />
     </Base>
   )
 }

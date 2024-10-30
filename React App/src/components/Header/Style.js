@@ -7,6 +7,8 @@ const Top = styled.header`
   flex-direction: row;
   margin: 0;
   border-bottom: 1px solid var(--primaria);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
   align-content: space-between;
   flex-wrap: wrap;
   position: sticky;
