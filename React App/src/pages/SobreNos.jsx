@@ -1,4 +1,3 @@
-import Cartao from "../components/Cartao/Cartao";
 import ListContainer from "../components/ListContainer/ListContainer";
 import Base from "./Base";
 

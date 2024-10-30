@@ -15,7 +15,7 @@ const Detalhamento = () => {
     <Base>
         {dadosFiltrados.map(
             (pro, index) => (
-              <DetalhamentoCard
+            <DetalhamentoCard
                 key={index}
                 titulo={pro.titulo}
                 url={`${process.env.PUBLIC_URL}/${pro.url}`}
@@ -23,12 +23,11 @@ const Detalhamento = () => {
                 colaboradores={pro.colaboradores}
                 ferramentas={pro.ferramentas}
                 papeis={pro.papeis}
-              />
-              )
-          )}
+            />
+            )
+        )}
     </Base>
     )
-
 }
 
 export default Detalhamento

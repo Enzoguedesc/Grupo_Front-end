@@ -13,34 +13,40 @@
   --detalhe: hsla(9, 63%, 45%, 1);*/
 
 
-  --primaria: #343232;
+  --primaria: #000000;
   --background: #ffffff;
   --secundaria: #002555;
+  --terciaria: #1b2f7a; /* :) */
   --destaque: #f5ac00;
   --detalhe:#1245ff;
 }
 
 /* borda vermelha em todos os elementos para debug */
-
+/*
 * {
   outline: red solid 1px;
 }
-
+*/
 
 body {
   margin: 0;
   font-family: 'Krub', sans-serif;
   background-color: var(--background);
-  color:var(--primaria);
+  color:var(--background);
 }
 
 a {
   font-family: 'Krub', sans-serif;
 }
 
-div.container {
-  padding: 1rem;
 
+.NomeProjetos{
+  color: var(--secundaria);
+  text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.50);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }
 
 h1,h2,h3,h4,h5,h6{
