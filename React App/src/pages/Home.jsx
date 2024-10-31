@@ -27,6 +27,23 @@ const Home = () => {
           <ProjetoCard titulo={pro.titulo} key={index} id={pro.id} detalhes={pro.detalhes} src={pro.url} />)
         }
       </ListContainer>
+    <div className="area-add-projetos">
+      <div className="add-projeto"></div>
+      <div className="escrita-add-projeto">Add novo projeto</div>
+    </div>
+
+<br></br>
+<br></br>
+
+      <div className="area-paginacao">
+        <div className="botao-paginacao">
+          <div className="pagina-1">Página 1</div>
+          </div>
+      </div>
+    
+
+<br></br>
+
     </Base>
   )
 }

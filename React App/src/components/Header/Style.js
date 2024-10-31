@@ -1,12 +1,15 @@
 import styled from "styled-components"
 
 const Top = styled.header`
-  padding: .5em 2em;
+  padding: .5em 1.5vmin .5em 1.5vmin;
+  width: 97vmin;
   background-color: var(--secundaria);
   display: flex;
   flex-direction: row;
   margin: 0;
   border-bottom: 1px solid var(--primaria);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
   align-content: space-between;
   flex-wrap: wrap;
   position: sticky;
@@ -18,7 +21,7 @@ const Top = styled.header`
     min-height: 1rem;
     text-align: center;
     margin: 0 .7em;
-    width: 7rem;
+    width: 10%;
     text-decoration: none;
     font-weight: bold;
     display: grid;
@@ -29,37 +32,43 @@ const Top = styled.header`
 
     /*border-radius: .3em;*/
     &:hover{
-      color: var(--detalhe);
+      color: var(--destaque);
     }
   }
 
-  .Botoes{
-    display: flex;
-
+  #botao-home{
+    display: none;
   }
 
-  input{
-    margin: 0 1em;
-    padding: .2em 1em;
-    border-radius: 2em;
-    border: 1px solid var(--primaria);
-    background-color: var(--background);
-    color: var(--primaria);
-    font-size: 1rem;
-    font-weight: bold;
-    height: 2rem;
-    width: 15rem;
-  }
-
-  .Pesquisar{
-    display: flex;
-    position: absolute;
-    transform: translate(77vmax, 1.5vmin);
+  #botao-sobre{
+    display: none;
   }
 
   img {
-    margin-right: 1rem;
+    width:25%;
+    margin-right: 1vmin;
     padding: 0.75em;
+  }
+
+  @media screen and (min-width: 800px){
+    padding: .5em 1.5vmax .5em 1.5vmax;
+    width: 97vmax;
+
+    #botao-home{
+      display: grid;
+      width: 10%;
+    }
+
+    #botao-sobre{
+      display: grid;
+      width: 10%;
+    }
+
+    img{
+      width: 15%;
+      height: 4rem;
+    }
+
   }
 `
 
