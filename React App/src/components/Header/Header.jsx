@@ -3,11 +3,9 @@ import { Top } from "./Style";
 
 const Header = () => (
   <Top>
-    <div className="Botoes">
       <img src="https://cdn.portal.estacio.br/Ibmec_logo_branco_97adecdb45.svg" alt='Logomarca-ibmec'/>
-      <Link to="/">Home</Link>
-      <Link to="/sobre-nos">Sobre-Nós</Link>
-    </div>
+      <Link to="/" id="botao-home">Home</Link>
+      <Link to="/sobre-nos" id="botao-sobre">Sobre-Nós</Link>
   </Top>
 )
 export default Header;

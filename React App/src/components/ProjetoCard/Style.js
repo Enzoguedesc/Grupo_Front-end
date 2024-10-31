@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Imagem = styled.article`
+const Cartao = styled.article`
     width: 35vmax;
     background-color: var(--terciaria);
     padding: .5em;
@@ -23,6 +23,7 @@ const Imagem = styled.article`
     .ContainerDetalhes {
       display: grid;
       grid-template-columns: 3fr 1fr;
+      font-size: x-small;
     }
 
     figure {
@@ -52,6 +53,12 @@ const Imagem = styled.article`
         color: var(--secundaria);
       }
   }
+
+  @media screen and (min-width: 800px) {
+    .ContainerDetalhes{
+      font-size: large;
+    }
+  }
 `;
 
-export {Imagem};
+export {Cartao};

@@ -19,6 +19,10 @@ const Barra = styled.footer`
         font-family: inherit;
         text-decoration: none;
     }
+
+    @media screen and (min-width: 800px){
+        display: none;
+    }
 `;
 
 export {Barra};
