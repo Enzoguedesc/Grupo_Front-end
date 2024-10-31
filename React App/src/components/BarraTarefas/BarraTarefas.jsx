@@ -3,8 +3,8 @@ import { Barra } from "./Style";
 
 const BarraTarefas = () => {
     return (
-        <Barra className="barratarefas">
-            <Link>
+        <Barra>
+            <Link to="/">
                 <svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M0.875 11.25V28.125H10.25V20.625C10.25 18.5539 11.9289 16.875 14 16.875C16.0711 16.875 17.75 18.5539 17.75 20.625V28.125H27.125V11.25L14 0L0.875 11.25Z" fill="white"/>
                 </svg>
@@ -12,7 +12,7 @@ const BarraTarefas = () => {
             </Link>
             <Link>
                 <svg width="36" height="31" viewBox="0 0 36 31" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M6 28H30C31.6569 28 33 26.7564 33 25.2222V9.94444C33 8.41032 31.6569 7.16667 30 7.16667H16.5L13.9453 3.61847C13.6671 3.23208 13.1988 3 12.6972 3H6C4.34314 3 3 4.24365 3 5.77778V25.2222C3 26.7564 4.34314 28 6 28Z" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M6 28H30C31.6569 28 33 26.7564 33 25.2222V9.94444C33 8.41032 31.6569 7.16667 30 7.16667H16.5L13.9453 3.61847C13.6671 3.23208 13.1988 3 12.6972 3H6C4.34314 3 3 4.24365 3 5.77778V25.2222C3 26.7564 4.34314 28 6 28Z" stroke="white" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
                 <h6>Projetos</h6>
             </Link>

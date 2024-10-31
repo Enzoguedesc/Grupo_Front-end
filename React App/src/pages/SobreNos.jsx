@@ -19,15 +19,7 @@ const SobreNos = () => {
     return(
         <Base>
             <ListContainer>
-                {
-                    dados.map( (ele, index) => (
-                        <Cartao
-                            key={index}
-                            titulo={ele.titulo}
-                            texto={ele.texto}
-                        />
-                    ))
-                }
+                
             </ListContainer>
         </Base>
     );

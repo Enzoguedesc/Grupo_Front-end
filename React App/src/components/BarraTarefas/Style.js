@@ -22,6 +22,9 @@ const Barra = styled.footer`
 
 
 
+    @media screen and (min-width: 800px){
+        display: none;
+    }
 `;
 
 export {Barra};
