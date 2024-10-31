@@ -23,6 +23,7 @@ const Imagem = styled.article`
     .ContainerDetalhes {
       display: grid;
       grid-template-columns: 3fr 1fr;
+
     }
 
     figure {
@@ -44,14 +45,15 @@ const Imagem = styled.article`
       background-color: var(--background);
       text-decoration: none;
       font-weight: bold;
-      color: var(--detalhe);
+      color: red;
+      border-radius: 5px;
       text-transform: uppercase;
       /*border-radius: .3em;*/
       &:hover{
         background-color: var(--destaque);
         color: var(--secundaria);
       }
-  }
+    }
 `;
 
 export {Imagem};

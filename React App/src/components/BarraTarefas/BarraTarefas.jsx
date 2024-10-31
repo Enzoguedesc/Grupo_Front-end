@@ -3,7 +3,7 @@ import { Barra } from "./Style";
 
 const BarraTarefas = () => {
     return (
-        <Barra>
+        <Barra className="barratarefas">
             <Link>
                 <svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M0.875 11.25V28.125H10.25V20.625C10.25 18.5539 11.9289 16.875 14 16.875C16.0711 16.875 17.75 18.5539 17.75 20.625V28.125H27.125V11.25L14 0L0.875 11.25Z" fill="white"/>
