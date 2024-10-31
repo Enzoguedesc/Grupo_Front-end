@@ -35,14 +35,13 @@ const Home = () => {
 <br></br>
 <br></br>
 
-      <div class="area-paginacao">
-        <div class="botao-paginacao"></div>
-        <div class="pagina-1">Página 1</div>
+      <div className="area-paginacao">
+        <div className="botao-paginacao"></div>
+        <div className="pagina-1">Página 1</div>
       </div>
 
 <br></br>
 
-      <BarraTarefas />
     </Base>
   )
 }
