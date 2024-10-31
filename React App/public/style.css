@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5,h6{
   position: relative;
   height: 155.9px;
   font-size: 12.13px;
-  color: #c0c0c0;
+  color: #161616;
  }
 
 .add-projeto{
@@ -82,8 +82,10 @@ h1,h2,h3,h4,h5,h6{
 .escrita-add-projeto{
   position: absolute;
   top: 102.5px;
-  left: 620px;
   font-size: 1.2em;
+  display: flex;
+  justify-self: center;
+
 }
 
 
@@ -115,9 +117,28 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
-@media screen and (min-width:470px) {
+@media screen and (max-width:470px) {
   .NomeProjetos{
     text-align: center;
   }
+}
+
+@media screen and (max-width: 775px) {
+  .escrita-add-projeto{
+    left: calc(49% - 40px);
+  }
+}
+
+@media screen and (min-width: 775px) {
+  .escrita-add-projeto{
+    left: calc(58% - 40px);
+  }
+}
+
+@media screen and (min-width: 905px) {
+  .escrita-add-projeto{
+    left: calc(49% - 40px);
+  }
+
 
 }

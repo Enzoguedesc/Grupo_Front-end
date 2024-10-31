@@ -36,9 +36,11 @@ const Home = () => {
 <br></br>
 
       <div className="area-paginacao">
-        <div className="botao-paginacao"></div>
-        <div className="pagina-1">Página 1</div>
+        <div className="botao-paginacao">
+          <div className="pagina-1">Página 1</div>
+          </div>
       </div>
+    
 
 <br></br>
 
