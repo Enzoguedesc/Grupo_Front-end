@@ -59,3 +59,86 @@ h1,h2,h3,h4,h5,h6{
   display: flex;
   flex-direction: column;
 }
+
+
+ .area-add-projetos{
+  position: relative;
+  height: 155.9px;
+  font-size: 12.13px;
+  color: #161616;
+ }
+
+.add-projeto{
+  position: absolute;
+  left: calc(50% - 113.5px);
+  box-shadow: 0px 2.7104475498199463px 2.71px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  background-color: #f1f1f1;
+  width: 227px;
+  height: 155.9px;
+
+}
+
+.escrita-add-projeto{
+  position: absolute;
+  top: 102.5px;
+  font-size: 1.2em;
+  display: flex;
+  justify-self: center;
+
+}
+
+
+
+.botao-paginacao {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 140px);
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background-color: #fbf7f7;
+  border: 1px solid black;
+  box-sizing: border-box;
+  width: 280px;
+  height: 39px;
+}
+
+.pagina-1 {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 33.5px);
+  color: black;
+  font-family: var(--font-inter);
+
+}
+.area-paginacao {
+  position: relative;
+  height: 39px;
+}
+
+
+@media screen and (max-width:470px) {
+  .NomeProjetos{
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 775px) {
+  .escrita-add-projeto{
+    left: calc(49% - 40px);
+  }
+}
+
+@media screen and (min-width: 775px) {
+  .escrita-add-projeto{
+    left: calc(58% - 40px);
+  }
+}
+
+@media screen and (min-width: 905px) {
+  .escrita-add-projeto{
+    left: calc(49% - 40px);
+  }
+
+
+}

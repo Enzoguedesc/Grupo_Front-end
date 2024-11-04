@@ -5,7 +5,7 @@ const Barra = styled.footer`
     flex-direction: row;
     justify-content: space-evenly;
     height: 3rem;
-    width: 100vmin;
+    width: auto;
     position: sticky;
     bottom: 0;
     background-color: var(--destaque);
@@ -20,9 +20,12 @@ const Barra = styled.footer`
         text-decoration: none;
     }
 
+
+
     @media screen and (min-width: 800px){
         display: none;
     }
 `;
 
 export {Barra};
+

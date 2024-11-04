@@ -32,7 +32,7 @@ const Top = styled.header`
 
     /*border-radius: .3em;*/
     &:hover{
-      color: var(--detalhe);
+      color: var(--destaque);
     }
   }
 
