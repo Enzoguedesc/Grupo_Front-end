@@ -3,9 +3,7 @@ import { DetalheArticle } from "./Style"
 const DetalhamentoCard = (props) => {
     return(
         <DetalheArticle>
-            <figure>
-                <img src={props.url} alt="imagem"/>
-            </figure>
+            <img src={props.url} alt="imagem"/>
             <h1>{props.titulo}</h1>
             <br></br>
             <h2>Descrição:</h2>

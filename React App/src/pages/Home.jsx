@@ -28,8 +28,7 @@ const Home = () => {
 
   return (
     <Base>
-      <h1 className="NomeProjetos">Projetos</h1>
-      <input type="text" placeholder="Pesquisar" onChange={(e) => filtro(e.target.value)} />
+      <input id="barra-pesquisa" type="text" placeholder="Pesquisar" onChange={(e) => filtro(e.target.value)} />
       <ListContainer>
         {
           dados.map((pro, index) =>
@@ -49,7 +48,7 @@ const Home = () => {
           <div className="pagina-1">Página 1</div>
           </div>
       </div>
-    
+
 
 <br></br>
 
