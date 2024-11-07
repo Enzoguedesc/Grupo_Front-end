@@ -70,6 +70,37 @@ const Top = styled.header`
       width: 15%;
       height: 4rem;
     }
+    .languageselectorcontainer {
+      display: flex;
+      align-items: center;
+     padding-left: 4rem;
+      
+    }
+
+    .languageselector {
+      font-size: 16px;
+      padding: 8px 12px;
+      border-radius: 5px;
+      border: none;
+      appearance: none; 
+      background-color: var(--secundaria);
+      cursor: pointer;
+      width: 50px;
+      color: white;
+      position: relative;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .languageoption, ptflag {
+
+      background-position: left center;
+      background-size: 20px;
+      font-size: large;
+      font: bold;
+      text-align: center;
+    
+      
   }
 
   @media screen and (min-width: 1441px){
@@ -80,7 +111,8 @@ const Top = styled.header`
     #botao-sobre{
       font-size: x-large;
     }
-  }
+  } 
+}
 `
 
 export {Top}

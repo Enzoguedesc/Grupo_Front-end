@@ -109,17 +109,21 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #barra-pesquisa {
-  width: 90%;
+  width: 50%;
   margin-inline: auto;
   margin-top: .5rem;
-  border-color: var(--destaque);
+  border-color: #000000;
   border-style: solid;
   border-radius: 5px;
-  background-color: rgb(235, 213, 18);
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-bottom: 30px;
+  height: 25px;
 }
 
 ::placeholder {
-  color: var(--background);
+  color: var(--primaria);
+
 }
 
 @media screen and (max-width:470px) {
