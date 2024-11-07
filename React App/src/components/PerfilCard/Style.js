@@ -6,12 +6,13 @@ const Perfil = styled.article`
     flex-direction: column;
     border: 2px solid black;
     border-radius: 10px;
-    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     width: 20%;
     padding: 10px;
     gap: 0.7em;
     justify-content: center;
     align-items: center;
+    background-color: rgb(235, 235, 235);
 
 .nome{
     font-weight: 600;
