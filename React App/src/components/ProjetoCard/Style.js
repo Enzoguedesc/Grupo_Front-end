@@ -2,17 +2,18 @@ import styled from "styled-components";
 
 const Cartao = styled.article`
     width: 35vmax;
-    background-color: var(--terciaria);
+    background-color: white;
     padding: .5em;
     position: relative;
     margin: 1vmax;
-    border: 1px solid var(--primaria);
+    border: 3px solid var(--secundaria);
     border-radius: 5px;
+
 
     div.titulo{
         background-color: var(--background);
         height: min-content;
-        color: var(--primaria);
+        color: var(--secundaria);
         justify-self: stretch;
         text-align: center;
         font-size: larger;
@@ -24,6 +25,10 @@ const Cartao = styled.article`
       display: grid;
       grid-template-columns: 3fr 1fr;
       font-size: x-small;
+      color: var(--secundaria);
+      text-align: left;
+
+  
     }
 
     figure {
