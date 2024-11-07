@@ -50,6 +50,11 @@ const Top = styled.header`
     padding: 0.75em;
   }
 
+  .languageselectorcontainer {
+    display: none;
+  }
+
+
   @media screen and (min-width: 800px){
     padding: .5em 1.5vmax .5em 1.5vmax;
     width: 97vmax;
