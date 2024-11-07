@@ -57,18 +57,29 @@ const Top = styled.header`
     #botao-home{
       display: grid;
       width: 10%;
+      font-size: large;
     }
 
     #botao-sobre{
       display: grid;
       width: 10%;
+      font-size: large;
     }
 
     img{
       width: 15%;
       height: 4rem;
     }
+  }
 
+  @media screen and (min-width: 1441px){
+    #botao-home{
+      font-size: x-large;
+    }
+
+    #botao-sobre{
+      font-size: x-large;
+    }
   }
 `
 

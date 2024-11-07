@@ -60,6 +60,20 @@ const Cartao = styled.article`
         font-size: large;
       }
     }
+
+    @media screen and (min-width: 1441px) {
+      .ContainerDetalhes{
+        font-size: x-large;
+      }
+
+      img {
+        height: 30rem;
+      }
+
+      div.titulo{
+        font-size: xx-large;
+      }
+    }
 `;
 
 export {Cartao};
