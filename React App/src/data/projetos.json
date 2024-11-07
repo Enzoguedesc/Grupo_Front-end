@@ -57,17 +57,17 @@
 
      {
       "titulo": "Simulador de Julgamento",
-      "id" : 5,
+      "id" : 7,
       "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
       "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
       "url" : "imagens/julgamento.jpeg",
       "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
       "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
      },
-     
+
       {
        "titulo" : "Aprenda a fazer um sistema",
-       "id" : 1,
+       "id" : 8,
        "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
        "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
        "url" : "imagens/ReactProject.jpg",
@@ -76,7 +76,7 @@
       },
       {
        "titulo" : "Projeto de Arquitetura",
-       "id" : 2,
+       "id" : 9,
        "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
        "colaboradores" : ["Marco", "Lucas", "Gabriel"],
        "url" : "imagens/modelo3d.jpg",
@@ -85,7 +85,7 @@
       },
       {
        "titulo" : "Simulador Arduino",
-       "id" : 3,
+       "id" : 10,
        "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
        "colaboradores" : ["Diego", "Pedro", "Leandro"],
        "url" : "imagens/arduino.jpg",
@@ -94,7 +94,7 @@
       },
       {
        "titulo" : "Simulador de Controle de Sistemas",
-       "id" : 4,
+       "id" : 11,
        "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
        "colaboradores" : ["Enzo", "Mateus", "Renan"],
        "url" : "imagens/ControleSistema.jpg",
@@ -103,37 +103,37 @@
       },
       {
        "titulo": "Simulador de Julgamento",
-       "id" : 5,
+       "id" : 12,
        "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
        "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
        "url" : "imagens/julgamento.jpeg",
        "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
        "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
       },
-   
+
       {
          "titulo": "Simulador de Julgamento",
-         "id" : 6,
+         "id" : 13,
          "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
          "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
          "url" : "imagens/julgamento.jpeg",
          "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
          "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
         },
-   
+
         {
          "titulo": "Simulador de Julgamento",
-         "id" : 5,
+         "id" : 14,
          "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
          "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
          "url" : "imagens/julgamento.jpeg",
          "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
          "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
         },
-        
+
          {
           "titulo" : "Aprenda a fazer um sistema",
-          "id" : 1,
+          "id" : 15,
           "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
           "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
           "url" : "imagens/ReactProject.jpg",
@@ -142,7 +142,7 @@
          },
          {
           "titulo" : "Projeto de Arquitetura",
-          "id" : 2,
+          "id" : 16,
           "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
           "colaboradores" : ["Marco", "Lucas", "Gabriel"],
           "url" : "imagens/modelo3d.jpg",
@@ -151,7 +151,7 @@
          },
          {
           "titulo" : "Simulador Arduino",
-          "id" : 3,
+          "id" : 17,
           "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
           "colaboradores" : ["Diego", "Pedro", "Leandro"],
           "url" : "imagens/arduino.jpg",
@@ -160,7 +160,7 @@
          },
          {
           "titulo" : "Simulador de Controle de Sistemas",
-          "id" : 4,
+          "id" : 18,
           "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
           "colaboradores" : ["Enzo", "Mateus", "Renan"],
           "url" : "imagens/ControleSistema.jpg",
@@ -169,33 +169,33 @@
          },
          {
           "titulo": "Simulador de Julgamento",
-          "id" : 5,
+          "id" : 19,
           "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
           "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
           "url" : "imagens/julgamento.jpeg",
           "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
           "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
          },
-      
+
          {
             "titulo": "Simulador de Julgamento",
-            "id" : 6,
+            "id" : 20,
             "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
             "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
             "url" : "imagens/julgamento.jpeg",
             "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
             "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-           },
-      
-           {
+         },
+
+         {
             "titulo": "Simulador de Julgamento",
-            "id" : 5,
+            "id" : 21,
             "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
             "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
             "url" : "imagens/julgamento.jpeg",
             "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
             "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-           }
+         }
 
 
 ]

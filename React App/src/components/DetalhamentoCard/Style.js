@@ -5,7 +5,9 @@ const DetalheArticle = styled.article`
     color: var(--primaria);
     display:flex;
     flex-direction: column;
-    margin-inline: auto;
+    justify-content: center;
+    align-items: center;
+    
 
     img {
         width: 85vmin;
@@ -14,10 +16,18 @@ const DetalheArticle = styled.article`
         margin-top: 1rem;
     }
 
+    #container-detal{
+        margin-inline: auto;
+    }
+
     @media screen and (min-width: 800px) {
-        width: 50vmax;
+        img{
+            width: 50vmax;
+            height: 30rem;
+        }
 
     }
+
 `
 
 export {DetalheArticle}
