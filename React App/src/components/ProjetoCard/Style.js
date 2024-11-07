@@ -46,6 +46,7 @@ const Cartao = styled.article`
       text-decoration: none;
       font-weight: bold;
       color: var(--detalhe);
+      border-radius: 5px;
       text-transform: uppercase;
       /*border-radius: .3em;*/
       &:hover{
@@ -58,7 +59,12 @@ const Cartao = styled.article`
     .ContainerDetalhes{
       font-size: large;
     }
-  }
-`;
+
+    @media screen and (min-width: 800px) {
+      .ContainerDetalhes{
+        font-size: large;
+      }
+    }
+  }`;
 
 export {Cartao};
