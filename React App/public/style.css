@@ -88,7 +88,7 @@ h1,h2,h3,h4,h5,h6{
   left: calc(50% - 140px);
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
-  background-color: #fbf7f7;
+  background-color: #ffffff;
   border: 1px solid black;
   box-sizing: border-box;
   width: 280px;
@@ -109,7 +109,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #barra-pesquisa {
-  width: 50%;
+  width: 40rem;
   margin-inline: auto;
   margin-top: .5rem;
   border-color: #000000;
@@ -179,12 +179,47 @@ h1,h2,h3,h4,h5,h6{
 .lupa {
   width: 30px;
   height: 30px;
+  margin: 20px;
+  margin-bottom: 2px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: white;
+  border-color: #000000;
+  border-style: groove;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  
+  
 }
 .filtro{
   display: flex;
-  flex-direction: row;
+  align-items: center;
+  
 }
-
+.Containerpagina{  padding: 12px 30px;
+  margin: 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: var(--secundaria);
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  
+  
+}
+.titulopagina{
+  font-size: large;
+  animation: fadeIn 2s ease-out forwards;
+  text-align: center;
+}
+.textopagina{
+  font-size: large;
+  animation: fadeIn 2s ease-out forwards;
+  text-align: center;
+}
 @media screen and (max-width:470px) {
   .NomeProjetos{
     text-align: center;

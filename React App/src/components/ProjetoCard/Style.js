@@ -6,7 +6,7 @@ const Cartao = styled.article`
     padding: .5em;
     position: relative;
     margin: 1vmax;
-    border: 3px solid var(--secundaria);
+    border: 5px solid var(--secundaria);
     border-radius: 5px;
 
 
@@ -27,6 +27,8 @@ const Cartao = styled.article`
       font-size: x-small;
       color: var(--secundaria);
       text-align: left;
+    
+      
 
   
     }
