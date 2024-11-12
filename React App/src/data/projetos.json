@@ -6,7 +6,7 @@
     "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
     "url" : "imagens/ReactProject.jpg",
     "ferramentas" : ["Html", "CSS", "JavaScript"],
-    "papeis" : "Enzo Guedes, responsavel pelo design do sistema; \nLuca Confente, responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen, foram responsaveis por programar o sistema;"
+    "papeis" : "Enzo Guedes será responsavel pelo design do sistema; \nLuca Confente será responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen foram os responsaveis por programar o sistema;"
    },
    {
     "titulo" : "Projeto de Arquitetura",
