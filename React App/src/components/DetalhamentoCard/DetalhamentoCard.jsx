@@ -5,11 +5,11 @@ const DetalhamentoCard = (props) => {
         <DetalheArticle>
             <img src={props.url} alt="imagem"/>
             <div id="container-detal">
+                <div>
                 <h1>{props.titulo}</h1>
-                <br></br>
-                <h2>Descrição:</h2>
-                <br></br>
-                <p>{props.detalhes}</p>
+                <p id="detalhes">{props.detalhes}</p> 
+                <img id="foto2"src="https://cdn.portal.estacio.br/Administracao_shutterstock_563114074_1865454718.webp"></img>
+                </div>
                 <br></br>
                 <h2>Colaboradores:</h2>
                 <ul>
@@ -23,6 +23,7 @@ const DetalhamentoCard = (props) => {
                 </ul>
                 <h2>Papel  dos colaboradores:</h2>
                 <p>{props.papeis}</p>
+                
             </div>
         </DetalheArticle>
     )
