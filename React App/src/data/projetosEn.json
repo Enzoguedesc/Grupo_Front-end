@@ -1,0 +1,47 @@
+[
+    {
+        "titulo" : "React Project Tutorial",
+        "id" : 1,
+        "detalhes" : "The purpose of this project is to create a portfolio system for IBMEC, showing projects made by students and their members, designed as a place where future students with an interest in the institution and potential business partners can access to see what is happening within the institution. university.",
+        "colaboradores" : ["Enzo Guedes (Data Science)", "Luca Confente (Data Science)", "Bernardo Meireles (ADS)", "Diego Bonani (Computer Engineering)", "Pedro Mynssen (Software Engineering)"],
+        "url" : "imagens/ReactProject.jpg",
+        "ferramentas" : ["Html", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
+        "papeis" : "Enzo Guedes will be responsible for the system design; Luca Confente will be responsible for obtaining all system details from the client; Diego Gode, Bernardo Meireles and Pedro Mynssen were responsible for programming the system;"
+    },
+    {
+        "titulo" : "3D Modelled Office",
+        "id" : 2,
+        "detalhes" : "It consists of creating a complete 3D model of a modern corporate office, developed to meet the demands of functionality, aesthetics and comfort in the work environment.",
+        "colaboradores" : ["Marco", "Lucas", "Gabriel"],
+        "url" : "imagens/modelo3d.jpg",
+        "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
+        "papeis" : "Marco, responsible for organizing the project and creating assets; Lucas, responsible for polishing and rendering Alan, responsible for managing and organizing the project."
+    },
+    {
+        "titulo" : "Arduino Simulator",
+        "id" : 3,
+        "detalhes" : "The Arduino Simulator is an interactive platform that allows users to create, program and test electronic circuits virtually. With an intuitive interface, the project offers features such as drag-and-drop circuit assembly, an integrated code editor, and real-time visualization of results. It is ideal for students, educators and electronics enthusiasts, providing a safe and practical learning experience.",
+        "colaboradores" : ["Diego", "Pedro", "Leandro"],
+        "url" : "imagens/arduino.jpg",
+        "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "Circuit simulator library"],
+        "papeis" : "Diego will be main developer, responsible for feature development, code management, systems integration, problem solving:; Lucas will be an interface designer, responsible for developing wireframes and prototypes, creating the user experience; Gabriel will be a tester and documenter, responsible for planning and executing tests, identifying bugs"
+    },
+    {
+        "titulo" : "Control Systems Project",
+        "id" : 4,
+        "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+        "colaboradores" : ["Enzo", "Mateus", "Renan"],
+        "url" : "imagens/ControleSistema.jpg",
+        "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "Circuit simulator library"],
+        "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos"
+    },
+    {
+        "titulo": "Legal Trial Simulator",
+        "id" : 5,
+        "detalhes" : "The Trial Simulator is an educational platform that allows law students to participate in trial simulations. Users can assume different roles, such as judge, prosecutor and defender, and work on fictional cases based on real situations. The tool aims to develop argumentation, critical analysis and teamwork skills, providing practical and interactive experience in the legal environment.",
+        "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
+        "url" : "imagens/julgamento.jpeg",
+        "ferramentas" : ["HTML", "CSS", "JavaScript", "Zoom calls", "Case management API"],
+        "papeis" : "Juliana will be the project coordinator, responsible for leading the team and defining the project vision; Arthur will be a frontend developer; Guilherme will be simulation and documentation facilitator"
+    }
+]

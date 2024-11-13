@@ -50,6 +50,11 @@ const Top = styled.header`
     padding: 0.75em;
   }
 
+  .languageselectorcontainer {
+    display: none;
+  }
+
+
   @media screen and (min-width: 800px){
     padding: .5em 1.5vmax .5em 1.5vmax;
     width: 97vmax;
@@ -57,19 +62,76 @@ const Top = styled.header`
     #botao-home{
       display: grid;
       width: 10%;
+      font-size: large;
     }
 
     #botao-sobre{
       display: grid;
       width: 10%;
+      font-size: large;
+    }
+
+    #botao-logout{
+      display: grid;
+      width: 10%;
+      font-size: large;
     }
 
     img{
       width: 15%;
       height: 4rem;
     }
+    .languageselectorcontainer {
+      display: flex;
+      align-items: center;
+      padding-left: 4rem;
+
+    }
+
+    .languageselector {
+      font-size: 16px;
+      padding: 8px 12px;
+      border-radius: 5px;
+      border: none;
+      appearance: none;
+      background-color: var(--secundaria);
+      cursor: pointer;
+      width: 80px;
+      color: white;
+      position: relative;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .languageoption, ptflag {
+
+      background-position: left center;
+      background-size: 20px;
+      font-size: large;
+      font: bold;
+      text-align: center;
+
 
   }
+
+  @media screen and (min-width: 1441px){
+    #botao-home{
+      font-size: x-large;
+    }
+
+    #botao-sobre{
+      font-size: x-large;
+    }
+
+    #botao-logout{
+      font-size: x-large;
+    }
+
+    .languageselectorcontainer {
+      font-size: x-large;
+    }
+  }
+}
 `
 
 export {Top}

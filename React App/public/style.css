@@ -31,7 +31,7 @@
 body {
   margin: 0;
   font-family: 'Krub', sans-serif;
-  background-color: var(--background);
+  background-color: #d9d9d9;
   color:var(--background);
 }
 
@@ -39,14 +39,8 @@ a {
   font-family: 'Krub', sans-serif;
 }
 
-
-.NomeProjetos{
-  color: var(--secundaria);
-  text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.50);
-  font-size: 64px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
+#icon-addProjeto{
+  color: black;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -58,6 +52,7 @@ h1,h2,h3,h4,h5,h6{
 .container {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 
@@ -84,10 +79,7 @@ h1,h2,h3,h4,h5,h6{
   top: 102.5px;
   font-size: 1.2em;
   display: flex;
-  justify-self: center;
-
 }
-
 
 
 .botao-paginacao {
@@ -96,7 +88,7 @@ h1,h2,h3,h4,h5,h6{
   left: calc(50% - 140px);
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
-  background-color: #fbf7f7;
+  background-color: #ffffff;
   border: 1px solid black;
   box-sizing: border-box;
   width: 280px;
@@ -116,7 +108,118 @@ h1,h2,h3,h4,h5,h6{
   height: 39px;
 }
 
+#barra-pesquisa {
+  width: 40rem;
+  margin-inline: auto;
+  margin-top: .5rem;
+  border-color: #000000;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-bottom: 30px;
+  height: 25px;
+}
 
+::placeholder {
+  color: var(--primaria);
+
+}
+
+.login-container {
+  width: 300px;
+  margin: 10em auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+/* Style for the form elements */
+.login-container input[type="email"],
+.login-container input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+/* Style for the submit button */
+.login-container input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: var(--destaque);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.login-container input[type="submit"]:hover {
+  background-color: var(--detalhe);
+}
+
+/* Style for the form labels */
+.login-container label {
+  margin-bottom: 5px;
+  display: block;
+  font-weight: bold;
+}
+
+/* Style for the form title */
+.login-container h2 {
+  color: var(--primaria);
+  text-align: center;
+  margin-bottom: 20px;
+}
+.lupa {
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+  margin-bottom: 2px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: white;
+  border-color: #000000;
+  border-style: groove;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  
+  
+}
+.filtro{
+  display: flex;
+  align-items: center;
+  
+}
+.Containerpagina{  padding: 12px 30px;
+  margin: 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: var(--secundaria);
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  
+  
+}
+.titulopagina{
+  font-size: large;
+  animation: fadeIn 2s ease-out forwards;
+  text-align: center;
+}
+.textopagina{
+  font-size: large;
+  animation: fadeIn 2s ease-out forwards;
+  text-align: center;
+}
 @media screen and (max-width:470px) {
   .NomeProjetos{
     text-align: center;
