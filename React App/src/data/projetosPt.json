@@ -28,7 +28,7 @@
     "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
    },
    {
-    "titulo" : "Simulador de Controle de Sistemas",
+    "titulo" : "Projeto de Controle de Sistemas",
     "id" : 4,
     "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
     "colaboradores" : ["Enzo", "Mateus", "Renan"],

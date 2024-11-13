@@ -10,6 +10,7 @@ import { auth } from "./config/Firebase";
 import { onAuthStateChanged } from "firebase/auth";
 import SobreNos from "./pages/SobreNos";
 import Detalhamento from "./pages/Detalhamento";
+import "./utils/i18next";
 
 const container = document.getElementById("root");
 const root = createRoot(container);

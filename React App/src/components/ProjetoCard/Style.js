@@ -27,10 +27,10 @@ const Cartao = styled.article`
       font-size: x-small;
       color: var(--secundaria);
       text-align: left;
-    
-      
 
-  
+
+
+
     }
 
     figure {
@@ -53,6 +53,7 @@ const Cartao = styled.article`
       text-decoration: none;
       font-weight: bold;
       color: var(--detalhe);
+      border: 2px solid var(--primaria);
       border-radius: 5px;
       text-transform: uppercase;
       /*border-radius: .3em;*/
