@@ -2,7 +2,7 @@ import ListContainer from "../components/ListContainer/ListContainer";
 import PerfilCard from "../components/PerfilCard/PerfilCard";
 import Base from "./Base";
 
-const dadosPerfil = [
+const dadosPerfilPt = [
     {
         "nome" : "Enzo Guedes",
         "imagem" : "imagens/fotoEnzo.jpg",
@@ -30,13 +30,40 @@ const dadosPerfil = [
     }
 ]
 
+const dadosPerfilEn = [
+    {
+        "nome" : "Enzo Guedes",
+        "imagem" : "imagens/fotoEnzo.jpg",
+        "detalhes" : "I am a Data Science and Artificial Intelligence student at IBMEC Barra, i'm currently in my second semester. Passionate about technology and data analysis, I'm developing skills in programming, statistics, and machine learning to understand and solve complex problems. I constantly seek to learn and apply new knowledge in practical projects that involve innovation.",
+    },
+    {
+        "nome" : "Diego Bonani",
+        "imagem" : "imagens/fotoDiego.jpg",
+        "detalhes" : "I am a Computer Engineering student at IBMEC Barra, currently in my second semester. Passionate about technology and innovation, I am constantly seeking to enhance my knowledge in programming, algorithms, and systems. With a keen eye for developing practical and efficient solutions, I am focused on building a solid foundation for my future career in the technology field.",
+    },
+    {
+        "nome" : "Luca Confente",
+        "imagem" : "imagens/fotoLuca.jpg",
+        "detalhes" : "I am a Data Science and Artificial Intelligence student at IBMEC Barra, currently in my second semester. Passionate about technology and data analysis, I am developing skills in programming, statistics, and machine learning to understand and solve complex problems. I am constantly seeking to learn and apply new knowledge in practical projects that involve innovation and impact.",
+    },
+    {
+        "nome" : "Bernardo Meireles",
+        "imagem" : "imagens/fotoBernardo.jpg",
+        "detalhes" : "I am a Systems Analysis and Development student at IBMEC Barra, currently in my second semester. Passionate about technology and always seeking continuous learning to enhance my software development skills. Exploring the world of programming and gaining practical experience through academic and personal projects.",
+    },
+    {
+        "nome" : "Pedro Mynssen",
+        "imagem" : "imagens/fotoPedro.jpg",
+        "detalhes" : "I am a Software Engineering student at IBMEC Barra, currently in my second semester. I am passionate about technology and systems development, always seeking to deepen my knowledge in programming and innovation. I am continuously learning and growing, with a focus on practical projects that help consolidate the skills acquired in the classroom.",
+    }
+]
 const SobreNos = () => {
 
     return(
         <Base>
             <ListContainer>
                 {
-                    dadosPerfil.map((pro, index) =>
+                    dadosPerfilPt.map((pro, index) =>
                     <PerfilCard
                     nome={pro.nome}
                     src={pro.imagem}
