@@ -44,8 +44,13 @@ const Top = styled.header`
     display: none;
   }
 
-  img {
+  .link-icon-ibmec {
     width:25%;
+    margin-right: 1vmin;
+    padding: 0.75em;
+  }
+  
+  img {
     margin-right: 1vmin;
     padding: 0.75em;
   }
@@ -77,10 +82,11 @@ const Top = styled.header`
       font-size: large;
     }
 
-    img{
+    .link-icon-ibmec{
       width: 15%;
       height: 4rem;
     }
+
     .languageselectorcontainer {
       display: flex;
       align-items: center;
