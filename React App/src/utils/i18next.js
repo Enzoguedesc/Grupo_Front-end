@@ -14,7 +14,10 @@ const resources = {
       search: "Search",
       contributors: "Contributors",
       tools: "Utilized tools",
-      jobs: "Contributors' roles"
+      jobs: "Contributors' roles",
+      courses: "Courses",
+      semester: "Semesters",
+      campus: "Campus",
     }
   },
   pt: {
@@ -26,7 +29,10 @@ const resources = {
       search: "Pesquisar",
       contributors: "Colaboradores",
       tools: "Ferramentas utilizadas",
-      jobs: "Papel dos colaboradores"
+      jobs: "Papel dos colaboradores",
+      courses: "Cursos",
+      semester: "Períodos",
+      campus: "Unidades",
     }
   }
 };
