@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+  /* CSS HSL */
+  /* https://coolors.co/ */
+
+ /* --primaria: hsla(210, 67%, 43%, 1);
+  --background: hsla(108, 22%, 87%, 1);
+  --secundaria: hsla(34, 100%, 50%, 1);
+  --destaque: hsla(355, 78%, 56%, 1);
+  --detalhe: hsla(9, 63%, 45%, 1);*/
+
+
+  --primaria: #000000;
+  --background: #ffffff;
+  --secundaria: #002555;
+  --terciaria: #1b2f7a; /* :) */
+  --destaque: #f5ac00;
+  --detalhe:#1245ff;
+}
+
+/* borda vermelha em todos os elementos para debug */
+/*
+* {
+  outline: red solid 1px;
+}
+*/
+
+body {
+  margin: 0;
+  font-family: 'Krub', sans-serif;
+  background-color: #d9d9d9;
+  color:var(--background);
+}
+
+a {
+  font-family: 'Krub', sans-serif;
+}
+
+#icon-addProjeto{
+  color: black;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add_projeto{
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  padding: 2em;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.add_projeto :hover {
+  cursor: pointer;
+}
+
+
+.paginacao {
+  background-color: #d9d9d9;
+  color: #333;
+  font:
+    1.2em / 1.5 Helvetica Neue,
+    Helvetica,
+    Arial,
+    sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid #eee;
+  margin-top: 1em;
+  padding-top: 0.5em;
+}
+
+#barra-pesquisa {
+  width: 90vmin;
+  margin-inline: auto;
+  margin-top: .5rem;
+  border-color: #000000;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-bottom: 30px;
+  height: 25px;
+}
+
+@media screen and (min-width: 800px) {
+  #barra-pesquisa {
+    width: 50vmax;
+    height: 2em;
+    text-align: center;
+    font-size: 1em;
+  }
+
+  ::placeholder{
+    text-align: center;
+  }
+}
+
+::placeholder {
+  color: var(--primaria);
+
+}
+
+.login-container {
+  width: 300px;
+  margin: 10em auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+/* Style for the form elements */
+.login-container input[type="email"],
+.login-container input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+/* Style for the submit button */
+.login-container input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: var(--destaque);
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.login-container input[type="submit"]:hover {
+  background-color: var(--detalhe);
+}
+
+/* Style for the form labels */
+.login-container label {
+  margin-bottom: 5px;
+  display: block;
+  font-weight: bold;
+}
+
+/* Style for the form title */
+.login-container h2 {
+  color: var(--primaria);
+  text-align: center;
+  margin-bottom: 20px;
+}
+.lupa {
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+  margin-bottom: 2px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: white;
+  border-color: #000000;
+  border-style: groove;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.filtro{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  width: 90vmin;
+}
+
+.container_filtro{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+.filtro-container{
+  border: none;
+  border-radius: 20px;
+  margin-top: 5px;
+  font-size: 0.8em;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media screen and (min-width: 800px) {
+  .filtro {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90vmax;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .filtro-container{
+    font-size: 0.9em;
+    height: 1.5em;
+    font-weight: normal;
+  }
+
+  .container_filtro{
+    font-size: 1.5em;
+    font-weight: medium;
+  }
+
+}
+
+.Containerpagina{  padding: 12px 30px;
+  margin: 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: var(--secundaria);
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+
+}
+.titulopagina{
+  font-size: large;
+  animation: fadeIn 2s ease-out forwards;
+  text-align: center;
+}
+.textopagina{
+  font-size: large;
+  animation: fadeIn 2s ease-out forwards;
+  text-align: center;
+}
+
+
+.container-logout{
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 1%;
+  background-color: white;
+  margin-top: 15%;
+}
+
+.logout-h1{
+  color: black;
+  padding: 0 0 10px 0;
+
+}
+
+.logout-h4{
+  color: black;
+  padding: 0 0 10px 0;
+
+}
+
+.logout-button{
+  font-size: 1.2em;
+  background-color: var(--destaque);
+  display: flex;
+  cursor: pointer;
+  margin: auto;
+
+
+
+}
+
+
+@media screen and (max-width:470px) {
+  .NomeProjetos{
+    text-align: center;
+  }
+}
+
+
+
