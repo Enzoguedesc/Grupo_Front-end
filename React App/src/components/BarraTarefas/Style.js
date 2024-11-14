@@ -5,7 +5,7 @@ const Barra = styled.footer`
     flex-direction: row;
     justify-content: space-evenly;
     height: 3rem;
-    width: auto;
+    width: 100vmin;
     position: sticky;
     bottom: 0;
     background-color: var(--destaque);

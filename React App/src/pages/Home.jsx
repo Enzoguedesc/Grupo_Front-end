@@ -67,7 +67,7 @@ const Home = () => {
 
       <div className="filtro">
         <div className="container_filtro">
-          <label>{t("tools")} </label>
+          <label>{t("tool")} </label>
               <select className="filtro-container" onChange={ (e) => {if(params.get('tool') === null){params.append('tool', e.target.value);}else{params.set('tool', e.target.value);} setParams(params)}}>
                   <option value="Python" >Python</option>
                   <option value="Html" >Html</option>

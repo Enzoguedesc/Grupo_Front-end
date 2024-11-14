@@ -2,7 +2,8 @@ import styled from "styled-components"
 
 const Top = styled.header`
   padding: .5em 1.5vmin .5em 1.5vmin;
-  width: 97vmin;
+  width: auto;
+  height: auto;
   background-color: var(--secundaria);
   display: flex;
   flex-direction: row;
@@ -15,7 +16,6 @@ const Top = styled.header`
   position: sticky;
   top: 0;
   z-index: 1000;
-
 
   a {
     min-height: 1rem;
@@ -45,11 +45,11 @@ const Top = styled.header`
   }
 
   .link-icon-ibmec {
-    width:25%;
+    width: 50px;
+    object-fit: fill;
     margin-right: 1vmin;
-    padding: 0.75em;
   }
-  
+
   img {
     margin-right: 1vmin;
     padding: 0.75em;
@@ -61,8 +61,8 @@ const Top = styled.header`
 
 
   @media screen and (min-width: 800px){
-    padding: .5em 1.5vmax .5em 1.5vmax;
-    width: 97vmax;
+    padding: .5em 1vmax .5em 1vmax;
+    height: 4rem;
 
     #botao-home{
       display: grid;
@@ -109,7 +109,7 @@ const Top = styled.header`
       text-align: center;
     }
 
-    .languageoption, ptflag {
+    .languageoption {
 
       background-position: left center;
       background-size: 20px;
@@ -121,6 +121,7 @@ const Top = styled.header`
   }
 
   @media screen and (min-width: 1441px){
+
     #botao-home{
       font-size: x-large;
     }

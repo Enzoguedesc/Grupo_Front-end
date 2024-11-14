@@ -103,7 +103,7 @@ nav {
 }
 
 #barra-pesquisa {
-  width: 35rem;
+  width: 90vmin;
   margin-inline: auto;
   margin-top: .5rem;
   border-color: #000000;
@@ -113,7 +113,19 @@ nav {
   margin-top: 50px;
   margin-bottom: 30px;
   height: 25px;
+}
 
+@media screen and (min-width: 800px) {
+  #barra-pesquisa {
+    width: 50vmax;
+    height: 2em;
+    text-align: center;
+    font-size: 1em;
+  }
+
+  ::placeholder{
+    text-align: center;
+  }
 }
 
 ::placeholder {
@@ -188,16 +200,17 @@ nav {
 
 .filtro{
   display: flex;
+  flex-direction: column;
   align-items: center;
   color: black;
-
+  width: 90vmin;
 }
 
 .container_filtro{
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0 0 0 50px;
+  padding: 20px;
   font-size: 1.2em;
 }
 
@@ -209,6 +222,27 @@ nav {
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+@media screen and (min-width: 800px) {
+  .filtro {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90vmax;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .filtro-container{
+    font-size: 0.9em;
+    height: 1.5em;
+    font-weight: normal;
+  }
+
+  .container_filtro{
+    font-size: 1.5em;
+    font-weight: medium;
+  }
+
+}
 
 .Containerpagina{  padding: 12px 30px;
   margin: 30px;
@@ -274,9 +308,5 @@ nav {
   }
 }
 
-@media screen and (min-width: 200px) and (max-width: 770px) {
-  .filtro{
-    width: 90vmin;
-  }
-}
+
 
