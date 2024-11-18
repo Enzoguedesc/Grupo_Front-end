@@ -115,7 +115,7 @@ const Home = () => {
         </div>
       </div>
 
-      <input id="barra-pesquisa" type="text" placeholder={t("search")} onChange={(e) => filtro(e.target.value)}  />
+      <input id="barra-pesquisa" type="search" placeholder={t("search")} onChange={(e) => filtro(e.target.value)}  />
 
       <ListContainer>
         {
