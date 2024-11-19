@@ -17,8 +17,12 @@ const resources = {
       tool: "Tools",
       jobs: "Contributors' roles",
       courses: "Courses",
-      semester: "Semesters",
+      semester: "Semester",
       campus: "Campus",
+      law: "Law",
+      engineering: "Engineering",
+      arquitecture: "Arquitecture",
+      new: "Add new project"
     }
   },
   pt: {
@@ -33,8 +37,12 @@ const resources = {
       tool: "Ferramentas",
       jobs: "Papel dos colaboradores",
       courses: "Cursos",
-      semester: "Períodos",
+      semester: "Período",
       campus: "Unidades",
+      law: "Direito",
+      engineering: "Engenharia",
+      arquitecture: "Arquitetura",
+      new: "Adicionar novo projeto"
     }
   }
 };

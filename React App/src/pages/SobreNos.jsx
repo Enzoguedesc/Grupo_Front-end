@@ -1,3 +1,4 @@
+import i18next from "i18next";
 import ListContainer from "../components/ListContainer/ListContainer";
 import PerfilCard from "../components/PerfilCard/PerfilCard";
 import Base from "./Base";
@@ -63,7 +64,14 @@ const SobreNos = () => {
         <Base>
             <ListContainer>
                 {
-                    dadosPerfilPt.map((pro, index) =>
+                    i18next.language === 'pt'
+                    ? dadosPerfilPt.map((pro, index) =>
+                    <PerfilCard
+                    nome={pro.nome}
+                    src={pro.imagem}
+                    key={index}
+                    detalhes={pro.detalhes} />)
+                    : dadosPerfilEn.map((pro, index) =>
                     <PerfilCard
                     nome={pro.nome}
                     src={pro.imagem}

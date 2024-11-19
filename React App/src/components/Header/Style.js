@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const Top = styled.header`
-  padding: .5em 1.5vmin .5em 1.5vmin;
+  padding: .5em 1%.5 .5em 5vmin;
   width: auto;
   height: auto;
   background-color: var(--secundaria);
@@ -11,7 +11,7 @@ const Top = styled.header`
   border-bottom: 1px solid var(--primaria);
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  align-content: space-between;
+  justify-content: space-between;
   flex-wrap: wrap;
   position: sticky;
   top: 0;
@@ -21,7 +21,7 @@ const Top = styled.header`
     min-height: 1rem;
     text-align: center;
     margin: 0 .7em;
-    width: 10%;
+    width: auto;
     text-decoration: none;
     font-weight: bold;
     display: grid;
@@ -44,13 +44,14 @@ const Top = styled.header`
     display: none;
   }
 
-  .link-icon-ibmec {
-    width: 50px;
-    object-fit: fill;
-    margin-right: 1vmin;
+  #botao-logout{
+
   }
 
-  img {
+  .link-icon-ibmec {
+    width: 10%;
+    object-fit: fill;
+    margin-right: 1vmin;
     margin-right: 1vmin;
     padding: 0.75em;
   }
@@ -85,6 +86,7 @@ const Top = styled.header`
     .link-icon-ibmec{
       width: 15%;
       height: 4rem;
+      padding: 0;
     }
 
     .languageselectorcontainer {
