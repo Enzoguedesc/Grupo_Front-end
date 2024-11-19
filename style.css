@@ -296,11 +296,7 @@ nav {
   display: flex;
   cursor: pointer;
   margin: auto;
-
-
-
 }
-
 
 @media screen and (max-width:470px) {
   .NomeProjetos{
