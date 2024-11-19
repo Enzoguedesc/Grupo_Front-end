@@ -1,8 +1,9 @@
 import styled from "styled-components"
 
 const Top = styled.header`
-  padding: .5em 1.5vmin .5em 1.5vmin;
-  width: 97vmin;
+  padding: .5em 1%.5 .5em 5vmin;
+  width: auto;
+  height: auto;
   background-color: var(--secundaria);
   display: flex;
   flex-direction: row;
@@ -10,18 +11,17 @@ const Top = styled.header`
   border-bottom: 1px solid var(--primaria);
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  align-content: space-between;
+  justify-content: space-between;
   flex-wrap: wrap;
   position: sticky;
   top: 0;
   z-index: 1000;
 
-
   a {
     min-height: 1rem;
     text-align: center;
     margin: 0 .7em;
-    width: 10%;
+    width: auto;
     text-decoration: none;
     font-weight: bold;
     display: grid;
@@ -44,8 +44,14 @@ const Top = styled.header`
     display: none;
   }
 
-  img {
-    width:25%;
+  #botao-logout{
+
+  }
+
+  .link-icon-ibmec {
+    width: 10%;
+    object-fit: fill;
+    margin-right: 1vmin;
     margin-right: 1vmin;
     padding: 0.75em;
   }
@@ -56,8 +62,8 @@ const Top = styled.header`
 
 
   @media screen and (min-width: 800px){
-    padding: .5em 1.5vmax .5em 1.5vmax;
-    width: 97vmax;
+    padding: .5em 1vmax .5em 1vmax;
+    height: 4rem;
 
     #botao-home{
       display: grid;
@@ -77,10 +83,12 @@ const Top = styled.header`
       font-size: large;
     }
 
-    img{
+    .link-icon-ibmec{
       width: 15%;
       height: 4rem;
+      padding: 0;
     }
+
     .languageselectorcontainer {
       display: flex;
       align-items: center;
@@ -103,7 +111,7 @@ const Top = styled.header`
       text-align: center;
     }
 
-    .languageoption, ptflag {
+    .languageoption {
 
       background-position: left center;
       background-size: 20px;
@@ -115,6 +123,7 @@ const Top = styled.header`
   }
 
   @media screen and (min-width: 1441px){
+
     #botao-home{
       font-size: x-large;
     }

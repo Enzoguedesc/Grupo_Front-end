@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Cartao = styled.article`
-    width: 35vmax;
+    width: 80vmin;
     background-color: white;
     padding: .5em;
     position: relative;
@@ -27,10 +27,6 @@ const Cartao = styled.article`
       font-size: x-small;
       color: var(--secundaria);
       text-align: left;
-
-
-
-
     }
 
     figure {

@@ -18,7 +18,7 @@ const Header = () => {
 
   return(
     <Top>
-        <img src="https://cdn.portal.estacio.br/Ibmec_logo_branco_97adecdb45.svg" alt='Logomarca-ibmec'/>
+        <a href="https://www.ibmec.br/" className="link-icon-ibmec"><img src="https://cdn.portal.estacio.br/Ibmec_logo_branco_97adecdb45.svg" alt='Logomarca-ibmec'/></a>
         <Link to="/" id="botao-home">Home</Link>
         <Link to="/sobre-nos" id="botao-sobre">{t("aboutButton")}</Link>
         {window.sessionStorage.getItem('accessToken')

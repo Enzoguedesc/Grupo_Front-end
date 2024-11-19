@@ -14,7 +14,15 @@ const resources = {
       search: "Search",
       contributors: "Contributors",
       tools: "Utilized tools",
-      jobs: "Contributors' roles"
+      tool: "Tools",
+      jobs: "Contributors' roles",
+      courses: "Courses",
+      semester: "Semester",
+      campus: "Campus",
+      law: "Law",
+      engineering: "Engineering",
+      arquitecture: "Arquitecture",
+      new: "Add new project"
     }
   },
   pt: {
@@ -26,7 +34,15 @@ const resources = {
       search: "Pesquisar",
       contributors: "Colaboradores",
       tools: "Ferramentas utilizadas",
-      jobs: "Papel dos colaboradores"
+      tool: "Ferramentas",
+      jobs: "Papel dos colaboradores",
+      courses: "Cursos",
+      semester: "Período",
+      campus: "Unidades",
+      law: "Direito",
+      engineering: "Engenharia",
+      arquitecture: "Arquitetura",
+      new: "Adicionar novo projeto"
     }
   }
 };

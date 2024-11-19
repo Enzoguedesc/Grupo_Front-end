@@ -31,6 +31,7 @@ const Detalhamento = () => {
                     key={index}
                     titulo={pro.titulo}
                     url={`${process.env.PUBLIC_URL}/${pro.url}`}
+                    foto={pro.foto}
                     detalhes={pro.detalhes}
                     colaboradores={pro.colaboradores}
                     ferramentas={pro.ferramentas}
@@ -43,6 +44,7 @@ const Detalhamento = () => {
                     key={index}
                     titulo={pro.titulo}
                     url={`${process.env.PUBLIC_URL}/${pro.url}`}
+                    foto ={pro.foto}
                     detalhes={pro.detalhes}
                     colaboradores={pro.colaboradores}
                     ferramentas={pro.ferramentas}

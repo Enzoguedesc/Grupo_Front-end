@@ -1,48 +1,72 @@
 [
    {
-    "titulo" : "Aprenda a fazer um sistema",
-    "id" : 1,
-    "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
-    "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
-    "url" : "imagens/ReactProject.jpg",
-    "ferramentas" : ["Html", "CSS", "JavaScript"],
-    "papeis" : "Enzo Guedes será responsavel pelo design do sistema; \nLuca Confente será responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen foram os responsaveis por programar o sistema;"
+      "titulo" : "Aprenda a fazer um sistema",
+      "id" : 1,
+      "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
+      "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
+      "url" : "imagens/ReactProject.jpg",
+      "foto" : "imagens/computador.jpg",
+      "ferramentas" : ["Html", "CSS", "JavaScript"],
+      "papeis" : "Enzo Guedes será responsavel pelo design do sistema; Luca Confente será responsavel por pegar todas os detalhes do sistema com o cliente; Diego Gode, Bernardo Meireles e Pedro Mynssen foram os responsaveis por programar o sistema;",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
    },
+
    {
-    "titulo" : "Projeto de Arquitetura",
-    "id" : 2,
-    "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
-    "colaboradores" : ["Marco", "Lucas", "Gabriel"],
-    "url" : "imagens/modelo3d.jpg",
-    "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
-    "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização \n Alan, responsavel pelo gerenciamento e organização do projeto."
+      "titulo" : "Projeto de Arquitetura",
+      "id" : 2,
+      "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
+      "colaboradores" : ["Marco", "Lucas", "Gabriel"],
+      "url" : "imagens/modelo3d.jpg",
+      "foto" : "imagens/qquarto.jpg",
+      "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
+      "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; Lucas, responsável pelo polimento e renderização Alan, responsavel pelo gerenciamento e organização do projeto.",
+      "periodo" : "2° periodo",
+      "curso" : "Arquitetura",
+      "unidade" : "SP"
    },
+
    {
-    "titulo" : "Simulador Arduino",
-    "id" : 3,
-    "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
-    "colaboradores" : ["Diego", "Pedro", "Leandro"],
-    "url" : "imagens/arduino.jpg",
-    "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
-    "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
+      "titulo" : "Simulador Arduino",
+      "id" : 3,
+      "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
+      "colaboradores" : ["Diego", "Pedro", "Leandro"],
+      "url" : "imagens/arduino.jpg",
+      "foto" : "imagens/circuitos.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
    },
+
    {
-    "titulo" : "Projeto de Controle de Sistemas",
-    "id" : 4,
-    "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
-    "colaboradores" : ["Enzo", "Mateus", "Renan"],
-    "url" : "imagens/ControleSistema.jpg",
-    "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
-    "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos"
+      "titulo" : "Projeto de Controle de Sistemas",
+      "id" : 4,
+      "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+      "colaboradores" : ["Enzo", "Mateus", "Renan"],
+      "url" : "imagens/ControleSistema.jpg",
+      "foto" : "imagens/equipe.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos",
+      "periodo" : "2° periodo",
+      "curso" : "Engenharia",
+      "unidade" : "BH"
    },
+
    {
-    "titulo": "Simulador de Julgamento",
-    "id" : 5,
-    "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-    "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-    "url" : "imagens/julgamento.jpeg",
-    "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-    "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
+      "titulo": "Simulador de Julgamento",
+      "id" : 5,
+      "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
+      "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
+      "url" : "imagens/julgamento.jpeg",
+      "foto" : "imagens/direito.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
+      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação",
+      "periodo" : "6° periodo",
+      "curso" : "Direito",
+      "unidade" : "RJ-Centro"
    },
 
    {
@@ -51,151 +75,221 @@
       "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
       "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
       "url" : "imagens/julgamento.jpeg",
+      "foto" : "imagens/direito.jpg",
       "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-     },
+      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação",
+      "periodo" : "6° periodo",
+      "curso" : "Direito",
+      "unidade" : "RJ-Centro"
+   },
 
-     {
+   {
       "titulo": "Simulador de Julgamento",
       "id" : 7,
       "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
       "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
       "url" : "imagens/julgamento.jpeg",
+      "foto" : "imagens/direito.jpg",
       "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-     },
+      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação",
+      "periodo" : "6° periodo",
+      "curso" : "Direito",
+      "unidade" : "RJ-Centro"
+   },
 
-      {
-       "titulo" : "Aprenda a fazer um sistema",
-       "id" : 8,
-       "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
-       "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
-       "url" : "imagens/ReactProject.jpg",
-       "ferramentas" : ["Html", "CSS", "JavaScript"],
-       "papeis" : "Enzo Guedes, responsavel pelo design do sistema; \nLuca Confente, responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen, foram responsaveis por programar o sistema;"
-      },
-      {
-       "titulo" : "Projeto de Arquitetura",
-       "id" : 9,
-       "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
-       "colaboradores" : ["Marco", "Lucas", "Gabriel"],
-       "url" : "imagens/modelo3d.jpg",
-       "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
-       "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização \n Alan, responsavel pelo gerenciamento e organização do projeto."
-      },
-      {
-       "titulo" : "Simulador Arduino",
-       "id" : 10,
-       "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
-       "colaboradores" : ["Diego", "Pedro", "Leandro"],
-       "url" : "imagens/arduino.jpg",
-       "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
-       "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
-      },
-      {
-       "titulo" : "Simulador de Controle de Sistemas",
-       "id" : 11,
-       "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
-       "colaboradores" : ["Enzo", "Mateus", "Renan"],
-       "url" : "imagens/ControleSistema.jpg",
-       "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
-       "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos"
-      },
-      {
-       "titulo": "Simulador de Julgamento",
-       "id" : 12,
-       "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-       "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-       "url" : "imagens/julgamento.jpeg",
-       "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-       "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-      },
+   {
+      "titulo" : "Aprenda a fazer um sistema",
+      "id" : 8,
+      "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
+      "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
+      "url" : "imagens/ReactProject.jpg",
+      "foto" : "imagens/computador.jpg",
+      "ferramentas" : ["Html", "CSS", "JavaScript"],
+      "papeis" : "Enzo Guedes será responsavel pelo design do sistema; Luca Confente será responsavel por pegar todas os detalhes do sistema com o cliente; Diego Gode, Bernardo Meireles e Pedro Mynssen foram os responsaveis por programar o sistema;",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
+   },
 
-      {
-         "titulo": "Simulador de Julgamento",
-         "id" : 13,
-         "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-         "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-         "url" : "imagens/julgamento.jpeg",
-         "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-         "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-        },
+   {
+      "titulo" : "Projeto de Arquitetura",
+      "id" : 9,
+      "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
+      "colaboradores" : ["Marco", "Lucas", "Gabriel"],
+      "url" : "imagens/modelo3d.jpg",
+      "foto" : "imagens/qquarto.jpg",
+      "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
+      "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; Lucas, responsável pelo polimento e renderização Alan, responsavel pelo gerenciamento e organização do projeto.",
+      "periodo" : "2° periodo",
+      "curso" : "Arquitetura",
+      "unidade" : "SP"
+   },
 
-        {
-         "titulo": "Simulador de Julgamento",
-         "id" : 14,
-         "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-         "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-         "url" : "imagens/julgamento.jpeg",
-         "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-         "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-        },
+   {
+      "titulo" : "Simulador Arduino",
+      "id" : 10,
+      "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
+      "colaboradores" : ["Diego", "Pedro", "Leandro"],
+      "url" : "imagens/arduino.jpg",
+      "foto" : "imagens/circuitos.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
+   },
 
-         {
-          "titulo" : "Aprenda a fazer um sistema",
-          "id" : 15,
-          "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
-          "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
-          "url" : "imagens/ReactProject.jpg",
-          "ferramentas" : ["Html", "CSS", "JavaScript"],
-          "papeis" : "Enzo Guedes, responsavel pelo design do sistema; \nLuca Confente, responsavel por pegar todas os detalhes do sistema com o cliente; \nDiego Gode, Bernardo Meireles e Pedro Mynssen, foram responsaveis por programar o sistema;"
-         },
-         {
-          "titulo" : "Projeto de Arquitetura",
-          "id" : 16,
-          "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
-          "colaboradores" : ["Marco", "Lucas", "Gabriel"],
-          "url" : "imagens/modelo3d.jpg",
-          "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
-          "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; \nLucas, responsável pelo polimento e renderização \n Alan, responsavel pelo gerenciamento e organização do projeto."
-         },
-         {
-          "titulo" : "Simulador Arduino",
-          "id" : 17,
-          "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
-          "colaboradores" : ["Diego", "Pedro", "Leandro"],
-          "url" : "imagens/arduino.jpg",
-          "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
-          "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs"
-         },
-         {
-          "titulo" : "Simulador de Controle de Sistemas",
-          "id" : 18,
-          "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
-          "colaboradores" : ["Enzo", "Mateus", "Renan"],
-          "url" : "imagens/ControleSistema.jpg",
-          "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
-          "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos"
-         },
-         {
-          "titulo": "Simulador de Julgamento",
-          "id" : 19,
-          "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-          "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-          "url" : "imagens/julgamento.jpeg",
-          "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-          "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-         },
+   {
+      "titulo" : "Projeto de Controle de Sistemas",
+      "id" : 11,
+      "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+      "colaboradores" : ["Enzo", "Mateus", "Renan"],
+      "url" : "imagens/ControleSistema.jpg",
+      "foto" : "imagens/equipe.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos",
+      "periodo" : "2° periodo",
+      "curso" : "Engenharia",
+      "unidade" : "BH"
+   },
 
-         {
-            "titulo": "Simulador de Julgamento",
-            "id" : 20,
-            "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-            "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-            "url" : "imagens/julgamento.jpeg",
-            "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-            "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-         },
+   {
+      "titulo": "Simulador de Julgamento",
+      "id" : 12,
+      "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
+      "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
+      "url" : "imagens/julgamento.jpeg",
+      "foto" : "imagens/direito.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
+      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação",
+      "periodo" : "6° periodo",
+      "curso" : "Direito",
+      "unidade" : "RJ-Centro"
+   },
 
-         {
-            "titulo": "Simulador de Julgamento",
-            "id" : 21,
-            "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
-            "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
-            "url" : "imagens/julgamento.jpeg",
-            "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
-            "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação"
-         }
+   {
+      "titulo" : "Projeto de Controle de Sistemas",
+      "id" : 13,
+      "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+      "colaboradores" : ["Enzo", "Mateus", "Renan"],
+      "url" : "imagens/ControleSistema.jpg",
+      "foto" : "imagens/equipe.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos",
+      "periodo" : "2° periodo",
+      "curso" : "Engenharia",
+      "unidade" : "BH"
+   },
 
+   {
+      "titulo": "Simulador de Julgamento",
+      "id" : 14,
+      "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
+      "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
+      "url" : "imagens/julgamento.jpeg",
+      "foto" : "imagens/direito.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
+      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação",
+      "periodo" : "6° periodo",
+      "curso" : "Direito",
+      "unidade" : "RJ-Centro"
+   },
 
+   {
+      "titulo" : "Aprenda a fazer um sistema",
+      "id" : 15,
+      "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
+      "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
+      "url" : "imagens/ReactProject.jpg",
+      "foto" : "imagens/computador.jpg",
+      "ferramentas" : ["Html", "CSS", "JavaScript"],
+      "papeis" : "Enzo Guedes será responsavel pelo design do sistema; Luca Confente será responsavel por pegar todas os detalhes do sistema com o cliente; Diego Gode, Bernardo Meireles e Pedro Mynssen foram os responsaveis por programar o sistema;",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
+   },
+
+   {
+      "titulo" : "Projeto de Arquitetura",
+      "id" : 16,
+      "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
+      "colaboradores" : ["Marco", "Lucas", "Gabriel"],
+      "url" : "imagens/modelo3d.jpg",
+      "foto" : "imagens/qquarto.jpg",
+      "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
+      "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; Lucas, responsável pelo polimento e renderização Alan, responsavel pelo gerenciamento e organização do projeto.",
+      "periodo" : "2° periodo",
+      "curso" : "Arquitetura",
+      "unidade" : "SP"
+   },
+
+   {
+      "titulo" : "Simulador Arduino",
+      "id" : 17,
+      "detalhes" : "O Simulador Arduino é uma plataforma interativa que permite aos usuários criar, programar e testar circuitos eletrônicos de forma virtual. Com uma interface intuitiva, o projeto oferece recursos como montagem de circuitos por arrastar e soltar, um editor de código integrado, e visualização em tempo real dos resultados. É ideal para estudantes, educadores e entusiastas da eletrônica, proporcionando uma experiência prática e segura de aprendizado.",
+      "colaboradores" : ["Diego", "Pedro", "Leandro"],
+      "url" : "imagens/arduino.jpg",
+      "foto" : "imagens/circuitos.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Diego será desenvolvedor principal, responsável por desenvolvimento de funcionalidades, gestão do código, integração de sistemas, resolução de problemas:; Lucas será designer de interface, responsável por desenvolvimento de wireframes e protótipos, criação da experiência do usuário; Gabriel será testador e documentador, responsável por planejamento e execução de testes, identificação de bugs",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
+   },
+
+   {
+      "titulo" : "Projeto de Controle de Sistemas",
+      "id" : 18,
+      "detalhes" : "O Simulador de controle de sistemas é uma ferramenta interativa que permite aos usuários modelar e simular sistemas dinâmicos, ajudando na compreensão de conceitos fundamentais de controle, como estabilidade, resposta a entradas e ajustes de parâmetros. A plataforma oferece uma interface visual para criação de modelos, além de gráficos em tempo real que mostram o comportamento do sistema sob diferentes condições.",
+      "colaboradores" : ["Enzo", "Mateus", "Renan"],
+      "url" : "imagens/ControleSistema.jpg",
+      "foto" : "imagens/equipe.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "Node.js", "bibliotecas de simulação de circuitos"],
+      "papeis" : "Enzo será desenvolvedor frontend sendo responsável por implementação de funcionalidades interativas, desenvolvimento da interface do usuário; Mateus será desenvolvedor backend, realizará gerenciamento de banco de dados, desenvolvimento da lógica do servidor; Renan será designer de interface e documentação apresentando documentação de design, desenvolvimento de Wireframes e Protótipos",
+      "periodo" : "2° periodo",
+      "curso" : "Engenharia",
+      "unidade" : "BH"
+   },
+
+   {
+      "titulo": "Simulador de Julgamento",
+      "id" : 19,
+      "detalhes" : "O Simulador de Julgamento é uma plataforma educacional que permite aos estudantes de direito participar de simulações de julgamentos. Os usuários podem assumir diferentes papéis, como juiz, promotor e defensor, e trabalhar em casos fictícios baseados em situações reais. A ferramenta visa desenvolver habilidades de argumentação, análise crítica e trabalho em equipe, proporcionando uma experiência prática e interativa no ambiente jurídico.",
+      "colaboradores" : ["Juliana", "Arthur", "Guilherme"],
+      "url" : "imagens/julgamento.jpeg",
+      "foto" : "imagens/direito.jpg",
+      "ferramentas" : ["HTML", "CSS", "JavaScript", "plataformas de videoconferência", "banco de dados para gerenciamento de casos"] ,
+      "papeis" : "Juliana será coordenadora do projeto, responsável por liderar a equipe e definir a visão do projeto; Arthur será desenvolvedor frontend ; Guilherme seracilitador de simulações e documentação",
+      "periodo" : "6° periodo",
+      "curso" : "Direito",
+      "unidade" : "RJ-Centro"
+   },
+
+   {
+      "titulo" : "Projeto de Arquitetura",
+      "id" : 20,
+      "detalhes" : "Consiste na criação de um modelo 3D completo de um escritório corporativo moderno, desenvolvido para atender às demandas de funcionalidade, estética e conforto no ambiente de trabalho.",
+      "colaboradores" : ["Marco", "Lucas", "Gabriel"],
+      "url" : "imagens/modelo3d.jpg",
+      "foto" : "imagens/qquarto.jpg",
+      "ferramentas" : ["SketchUp", "V-Ray", "AutoCAD", "Lumion", "Photoshop"],
+      "papeis" : "Marco, responsável pela organização do projeto e a criação de assets; Lucas, responsável pelo polimento e renderização Alan, responsavel pelo gerenciamento e organização do projeto.",
+      "periodo" : "2° periodo",
+      "curso" : "Arquitetura",
+      "unidade" : "SP"
+   },
+
+   {
+      "titulo" : "Aprenda a fazer um sistema",
+      "id" : 21,
+      "detalhes" : "O propósito desse projeto é criar um sistema de portfólios para o IBMEC, mostrando projetos feitos pelos estudantes e seus integrantes, planejados como um lugar no qual futuros alunos com interesse na instituição e possíveis parceiros de negócios podem acessar para ver o que está acontecendo dentro da universidade.",
+      "colaboradores" : ["Enzo Guedes (Ciência de Dados)", "Luca Confente (Ciência de Dados)", "Bernardo Meireles (ADS)", "Diego Gode (Engenharia da computação)", "Pedro Mynssen (Engenharia da software )"],
+      "url" : "imagens/ReactProject.jpg",
+      "foto" : "imagens/computador.jpg",
+      "ferramentas" : ["Html", "CSS", "JavaScript"],
+      "papeis" : "Enzo Guedes será responsavel pelo design do sistema; Luca Confente será responsavel por pegar todas os detalhes do sistema com o cliente; Diego Gode, Bernardo Meireles e Pedro Mynssen foram os responsaveis por programar o sistema;",
+      "periodo" : "2° periodo",
+      "curso" : "Tech",
+      "unidade" : "RJ-Barra"
+   }
 ]

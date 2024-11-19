@@ -7,7 +7,7 @@ const Perfil = styled.article`
     border: 2px solid black;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    width: 20%;
+    width: 80vmin;
     padding: 10px;
     gap: 0.7em;
     justify-content: center;
@@ -24,6 +24,10 @@ const Perfil = styled.article`
     object-fit: contain;
     width: 100%;
     border-radius: 10px;
+}
+
+@media screen and (min-width: 800px){
+    width: 20%;
 }
 `
 export {Perfil};

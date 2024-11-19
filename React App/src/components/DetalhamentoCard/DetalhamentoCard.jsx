@@ -11,7 +11,7 @@ const DetalhamentoCard = (props) => {
                 <div>
                 <h1>{props.titulo}</h1>
                 <p id="detalhes">{props.detalhes}</p>
-                <img id="foto2"src="https://cdn.portal.estacio.br/Administracao_shutterstock_563114074_1865454718.webp"></img>
+                <img id="foto2"src={props.foto}></img>
                 </div>
                 <br></br>
                 <h2>{t("contributors")}:</h2>
