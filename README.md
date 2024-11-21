@@ -96,3 +96,6 @@ O propósito do sistema que iremos desenvolver é criar um portfólio para o IBM
 
 # Protótipo
 ### [GitHub Pages](https://enzoguedesc.github.io/Grupo_Front-end/)
+
+# Apresentação final
+### [Canva](https://www.canva.com/design/DAGWgeJlIXU/P5ctvJJTRk_X3f8VxBgneA/edit?utm_content=DAGWgeJlIXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
