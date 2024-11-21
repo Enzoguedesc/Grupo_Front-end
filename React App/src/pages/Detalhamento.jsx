@@ -30,7 +30,7 @@ const Detalhamento = () => {
                 <DetalhamentoCard
                     key={index}
                     titulo={pro.titulo}
-                    url={`${process.env.PUBLIC_URL}/${pro.url}`}
+                    url={pro.url}
                     foto={pro.foto}
                     detalhes={pro.detalhes}
                     colaboradores={pro.colaboradores}
